@@ -1,0 +1,3324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="openstreetmap-cgimap 2.0.1 (1884 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <create>
+  <node id="12067452895" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6626427" lon="-114.2848965"/>
+ </create>
+ <create>
+  <node id="12067452896" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6629083" lon="-114.2848832"/>
+ </create>
+ <create>
+  <node id="12067452897" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6631773" lon="-114.2847139"/>
+ </create>
+ <create>
+  <node id="12067452898" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6622759" lon="-114.2847255"/>
+ </create>
+ <create>
+  <node id="12067452899" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6757552" lon="-114.2694789"/>
+ </create>
+ <create>
+  <node id="12067452900" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6762799" lon="-114.2690174"/>
+ </create>
+ <create>
+  <node id="12067452901" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6765714" lon="-114.2688246"/>
+ </create>
+ <create>
+  <node id="12067452902" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6771699" lon="-114.2684242"/>
+ </create>
+ <create>
+  <node id="12067452903" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6774280" lon="-114.2682222"/>
+ </create>
+ <create>
+  <node id="12067452904" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6776218" lon="-114.2680242"/>
+ </create>
+ <create>
+  <node id="12067452905" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778285" lon="-114.2677721"/>
+ </create>
+ <create>
+  <node id="12067452906" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781397" lon="-114.2672976"/>
+ </create>
+ <create>
+  <node id="12067452907" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783235" lon="-114.2669547"/>
+ </create>
+ <create>
+  <node id="12067452908" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784766" lon="-114.2665686"/>
+ </create>
+ <create>
+  <node id="12067452909" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786427" lon="-114.2660067"/>
+ </create>
+ <create>
+  <node id="12067452910" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787081" lon="-114.2657186"/>
+ </create>
+ <create>
+  <node id="12067452911" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793969" lon="-114.2621347"/>
+ </create>
+ <create>
+  <node id="12067452912" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793162" lon="-114.2604996"/>
+ </create>
+ <create>
+  <node id="12067452913" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6792320" lon="-114.2602557"/>
+ </create>
+ <create>
+  <node id="12067452914" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784997" lon="-114.2586848"/>
+ </create>
+ <create>
+  <node id="12067452915" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783132" lon="-114.2581624"/>
+ </create>
+ <create>
+  <node id="12067452916" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779586" lon="-114.2579724"/>
+ </create>
+ <create>
+  <node id="12067452917" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6772846" lon="-114.2569110"/>
+ </create>
+ <create>
+  <node id="12067452918" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6771569" lon="-114.2566940"/>
+ </create>
+ <create>
+  <node id="12067452919" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6769150" lon="-114.2558967"/>
+ </create>
+ <create>
+  <node id="12067452920" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768836" lon="-114.2551067"/>
+ </create>
+ <create>
+  <node id="12067452921" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6769594" lon="-114.2546784"/>
+ </create>
+ <create>
+  <node id="12067452922" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6776042" lon="-114.2533326"/>
+ </create>
+ <create>
+  <node id="12067452923" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777724" lon="-114.2529776"/>
+ </create>
+ <create>
+  <node id="12067452924" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780092" lon="-114.2521131"/>
+ </create>
+ <create>
+  <node id="12067452925" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780104" lon="-114.2512079"/>
+ </create>
+ <create>
+  <node id="12067452926" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780582" lon="-114.2506487"/>
+ </create>
+ <create>
+  <node id="12067452927" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781619" lon="-114.2501287"/>
+ </create>
+ <create>
+  <node id="12067452928" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781892" lon="-114.2499759"/>
+ </create>
+ <create>
+  <node id="12067452929" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782449" lon="-114.2499987"/>
+ </create>
+ <create>
+  <node id="12067452930" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783005" lon="-114.2499232"/>
+ </create>
+ <create>
+  <node id="12067452931" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783950" lon="-114.2498409"/>
+ </create>
+ <create>
+  <node id="12067452932" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784471" lon="-114.2498226"/>
+ </create>
+ <create>
+  <node id="12067452933" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790295" lon="-114.2498081"/>
+ </create>
+ <create>
+  <node id="12067452934" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784386" lon="-114.2496681"/>
+ </create>
+ <create>
+  <node id="12067452935" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795464" lon="-114.2474977"/>
+ </create>
+ <create>
+  <node id="12067452936" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800662" lon="-114.2455778"/>
+ </create>
+ <create>
+  <node id="12067452937" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801879" lon="-114.2454039"/>
+ </create>
+ <create>
+  <node id="12067452938" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802351" lon="-114.2453887"/>
+ </create>
+ <create>
+  <node id="12067452939" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802213" lon="-114.2453167"/>
+ </create>
+ <create>
+  <node id="12067452940" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801624" lon="-114.2452785"/>
+ </create>
+ <create>
+  <node id="12067452941" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800948" lon="-114.2452128"/>
+ </create>
+ <create>
+  <node id="12067452942" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778602" lon="-114.2428508"/>
+ </create>
+ <create>
+  <node id="12067452943" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779119" lon="-114.2434912"/>
+ </create>
+ <create>
+  <node id="12067452944" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780124" lon="-114.2439351"/>
+ </create>
+ <create>
+  <node id="12067452945" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781585" lon="-114.2444311"/>
+ </create>
+ <create>
+  <node id="12067452946" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782322" lon="-114.2447662"/>
+ </create>
+ <create>
+  <node id="12067452947" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782608" lon="-114.2449503"/>
+ </create>
+ <create>
+  <node id="12067452948" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782825" lon="-114.2455202"/>
+ </create>
+ <create>
+  <node id="12067452949" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782782" lon="-114.2493416"/>
+ </create>
+ <create>
+  <node id="12067452950" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780625" lon="-114.2508720"/>
+ </create>
+ <create>
+  <node id="12067452951" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780019" lon="-114.2508591"/>
+ </create>
+ <create>
+  <node id="12067452952" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778838" lon="-114.2515811"/>
+ </create>
+ <create>
+  <node id="12067452953" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779055" lon="-114.2515547"/>
+ </create>
+ <create>
+  <node id="12067452954" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778837" lon="-114.2515216"/>
+ </create>
+ <create>
+  <node id="12067452955" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778621" lon="-114.2515479"/>
+ </create>
+ <create>
+  <node id="12067452956" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779850" lon="-114.2515566"/>
+ </create>
+ <create>
+  <node id="12067452957" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777678" lon="-114.2513624"/>
+ </create>
+ <create>
+  <node id="12067452958" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778071" lon="-114.2512142"/>
+ </create>
+ <create>
+  <node id="12067452959" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778296" lon="-114.2512247"/>
+ </create>
+ <create>
+  <node id="12067452960" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778669" lon="-114.2511062"/>
+ </create>
+ <create>
+  <node id="12067452961" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778922" lon="-114.2511062"/>
+ </create>
+ <create>
+  <node id="12067452962" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779829" lon="-114.2510698"/>
+ </create>
+ <create>
+  <node id="12067452963" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779801" lon="-114.2512142"/>
+ </create>
+ <create>
+  <node id="12067452964" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777686" lon="-114.2511740"/>
+ </create>
+ <create>
+  <node id="12067452965" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777802" lon="-114.2511399"/>
+ </create>
+ <create>
+  <node id="12067452966" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777555" lon="-114.2511126"/>
+ </create>
+ <create>
+  <node id="12067452967" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777620" lon="-114.2511367"/>
+ </create>
+ <create>
+  <node id="12067452968" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777589" lon="-114.2511788"/>
+ </create>
+ <create>
+  <node id="12067480969" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778250" lon="-114.2512124"/>
+ </create>
+ <create>
+  <node id="12067480970" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778636" lon="-114.2510936"/>
+ </create>
+ <create>
+  <node id="12067480971" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778910" lon="-114.2510942"/>
+ </create>
+ <create>
+  <node id="12067480972" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779501" lon="-114.2510737"/>
+ </create>
+ <create>
+  <node id="12067480973" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779401" lon="-114.2509270"/>
+ </create>
+ <create>
+  <node id="12067480974" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779373" lon="-114.2517183">
+   <tag k="board_type" v="welcome_sign"/>
+   <tag k="information" v="board"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480975" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779241" lon="-114.2516126">
+   <tag k="board:title" v="Symbols of Confinement"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480976" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779932" lon="-114.2512926">
+   <tag k="board:title" v="FIXME"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480977" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779511" lon="-114.2515265"/>
+ </create>
+ <create>
+  <node id="12067480978" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779521" lon="-114.2516266"/>
+ </create>
+ <create>
+  <node id="12067480979" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779236" lon="-114.2510488">
+   <tag k="historic" v="ruins"/>
+   <tag k="name" v="Military Police Building"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480980" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778174" lon="-114.2510550">
+   <tag k="historic" v="ruins"/>
+   <tag k="name" v="Reception Building"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480981" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777917" lon="-114.2511730">
+   <tag k="board:title" v="Justice Denied"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480982" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777842" lon="-114.2512196">
+   <tag k="board_type" v="rules"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480983" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777420" lon="-114.2511396">
+   <tag k="board:title" v="Soothing Waters"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480984" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777606" lon="-114.2511182">
+   <tag k="board:title" v="Minidoka Relocation Center"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480985" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777728" lon="-114.2511318">
+   <tag k="description" v="Lists the names of those who died while incarcerated at Minidoka"/>
+   <tag k="historic" v="memorial"/>
+   <tag k="memorial" v="plaque"/>
+   <tag k="name" v="Honor Roll"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067480986" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779756" lon="-114.2503432"/>
+ </create>
+ <create>
+  <node id="12067480987" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779715" lon="-114.2501858"/>
+ </create>
+ <create>
+  <node id="12067480988" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779427" lon="-114.2411385"/>
+ </create>
+ <create>
+  <node id="12067480989" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782297" lon="-114.2397549"/>
+ </create>
+ <create>
+  <node id="12067480990" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782614" lon="-114.2394882"/>
+ </create>
+ <create>
+  <node id="12067480991" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783921" lon="-114.2371632"/>
+ </create>
+ <create>
+  <node id="12067480992" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783936" lon="-114.2369273"/>
+ </create>
+ <create>
+  <node id="12067480993" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780715" lon="-114.2035712"/>
+ </create>
+ <create>
+  <node id="12067480994" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778449" lon="-114.2022727"/>
+ </create>
+ <create>
+  <node id="12067480995" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778339" lon="-114.2019646"/>
+ </create>
+ <create>
+  <node id="12067480996" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778744" lon="-114.2016014"/>
+ </create>
+ <create>
+  <node id="12067480997" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779835" lon="-114.1864441"/>
+ </create>
+ <create>
+  <node id="12067480998" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782541" lon="-114.2506214"/>
+ </create>
+ <create>
+  <node id="12067480999" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782356" lon="-114.2506170"/>
+ </create>
+ <create>
+  <node id="12067481000" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782139" lon="-114.2505950"/>
+ </create>
+ <create>
+  <node id="12067481001" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782056" lon="-114.2505673"/>
+ </create>
+ <create>
+  <node id="12067481002" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781355" lon="-114.2509497">
+   <tag k="board:title" v="A Question of Loyalty"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481003" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781130" lon="-114.2509168">
+   <tag k="board:title" v="Military Service"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481004" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780989" lon="-114.2508999">
+   <tag k="board:title" v="Honor Roll"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481005" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780817" lon="-114.2508975"/>
+ </create>
+ <create>
+  <node id="12067481006" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781296" lon="-114.2509610"/>
+ </create>
+ <create>
+  <node id="12067481007" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781113" lon="-114.2509746">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481008" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778698" lon="-114.2510661">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481009" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777915" lon="-114.2512967">
+   <tag k="amenity" v="waste_basket"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481010" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785533" lon="-114.2504148"/>
+ </create>
+ <create>
+  <node id="12067481011" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782190" lon="-114.2506704"/>
+ </create>
+ <create>
+  <node id="12067481012" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782009" lon="-114.2506827"/>
+ </create>
+ <create>
+  <node id="12067481013" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781866" lon="-114.2506880"/>
+ </create>
+ <create>
+  <node id="12067481014" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781672" lon="-114.2506713"/>
+ </create>
+ <create>
+  <node id="12067481015" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781685" lon="-114.2506563"/>
+ </create>
+ <create>
+  <node id="12067481016" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781730" lon="-114.2506290"/>
+ </create>
+ <create>
+  <node id="12067481017" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782896" lon="-114.2500412"/>
+ </create>
+ <create>
+  <node id="12067481018" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782980" lon="-114.2500245"/>
+ </create>
+ <create>
+  <node id="12067481019" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783369" lon="-114.2499822"/>
+ </create>
+ <create>
+  <node id="12067481020" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783958" lon="-114.2499241"/>
+ </create>
+ <create>
+  <node id="12067481021" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784114" lon="-114.2499144"/>
+ </create>
+ <create>
+  <node id="12067481022" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784723" lon="-114.2498879"/>
+ </create>
+ <create>
+  <node id="12067481023" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784847" lon="-114.2497837"/>
+ </create>
+ <create>
+  <node id="12067481024" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785033" lon="-114.2497418"/>
+ </create>
+ <create>
+  <node id="12067481025" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6792101" lon="-114.2483766"/>
+ </create>
+ <create>
+  <node id="12067481026" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787617" lon="-114.2492297"/>
+ </create>
+ <create>
+  <node id="12067481027" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780035" lon="-114.2490027"/>
+ </create>
+ <create>
+  <node id="12067481028" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779341" lon="-114.2490103"/>
+ </create>
+ <create>
+  <node id="12067481029" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780241" lon="-114.2490121">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481030" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780147" lon="-114.2490115">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481031" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6774053" lon="-114.2428258">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481032" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6763613" lon="-114.2443325"/>
+ </create>
+ <create>
+  <node id="12067481033" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6767934" lon="-114.2436252"/>
+ </create>
+ <create>
+  <node id="12067481034" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6763512" lon="-114.2451000"/>
+ </create>
+ <create>
+  <node id="12067481035" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6774911" lon="-114.2468865"/>
+ </create>
+ <create>
+  <node id="12067481036" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778499" lon="-114.2477857"/>
+ </create>
+ <create>
+  <node id="12067481037" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778969" lon="-114.2475837"/>
+ </create>
+ <create>
+  <node id="12067481038" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778890" lon="-114.2474438"/>
+ </create>
+ <create>
+  <node id="12067481039" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778574" lon="-114.2433306"/>
+ </create>
+ <create>
+  <node id="12067481040" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779248" lon="-114.2433213"/>
+ </create>
+ <create>
+  <node id="12067481041" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785527" lon="-114.2513076"/>
+ </create>
+ <create>
+  <node id="12067481042" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791491" lon="-114.2517141"/>
+ </create>
+ <create>
+  <node id="12067481043" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795185" lon="-114.2519752"/>
+ </create>
+ <create>
+  <node id="12067481044" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795528" lon="-114.2520191"/>
+ </create>
+ <create>
+  <node id="12067481045" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795940" lon="-114.2521233"/>
+ </create>
+ <create>
+  <node id="12067481046" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795912" lon="-114.2522716"/>
+ </create>
+ <create>
+  <node id="12067481047" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6848798" lon="-114.2497409"/>
+ </create>
+ <create>
+  <node id="12067481048" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6852853" lon="-114.2496030"/>
+ </create>
+ <create>
+  <node id="12067481049" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779432" lon="-114.2508269">
+   <tag k="information" v="guidepost"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481050" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777790" lon="-114.2485543">
+   <tag k="information" v="guidepost"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481051" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768114" lon="-114.2465137">
+   <tag k="board:title" v="That Damned Fence"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481052" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6769022" lon="-114.2469925"/>
+ </create>
+ <create>
+  <node id="12067481053" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6762668" lon="-114.2451138"/>
+ </create>
+ <create>
+  <node id="12067481054" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6762806" lon="-114.2444657"/>
+ </create>
+ <create>
+  <node id="12067481055" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6774575" lon="-114.2433693">
+   <tag k="information" v="guidepost"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481056" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6774221" lon="-114.2427849">
+   <tag k="board:title" v="Swimming Hole"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481057" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6792518" lon="-114.2438263"/>
+ </create>
+ <create>
+  <node id="12067481058" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791477" lon="-114.2439454"/>
+ </create>
+ <create>
+  <node id="12067481059" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790726" lon="-114.2438771"/>
+ </create>
+ <create>
+  <node id="12067481060" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790923" lon="-114.2438559"/>
+ </create>
+ <create>
+  <node id="12067481061" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789873" lon="-114.2439692"/>
+ </create>
+ <create>
+  <node id="12067481062" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790074" lon="-114.2440009"/>
+ </create>
+ <create>
+  <node id="12067481063" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790139" lon="-114.2440176"/>
+ </create>
+ <create>
+  <node id="12067481064" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790158" lon="-114.2440335"/>
+ </create>
+ <create>
+  <node id="12067481065" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790132" lon="-114.2440485"/>
+ </create>
+ <create>
+  <node id="12067481066" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790055" lon="-114.2440608"/>
+ </create>
+ <create>
+  <node id="12067481067" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788837" lon="-114.2442273"/>
+ </create>
+ <create>
+  <node id="12067481068" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788746" lon="-114.2442379"/>
+ </create>
+ <create>
+  <node id="12067481069" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788668" lon="-114.2442432"/>
+ </create>
+ <create>
+  <node id="12067481070" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788565" lon="-114.2442450"/>
+ </create>
+ <create>
+  <node id="12067481071" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788468" lon="-114.2442441"/>
+ </create>
+ <create>
+  <node id="12067481072" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788383" lon="-114.2442388"/>
+ </create>
+ <create>
+  <node id="12067481073" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788293" lon="-114.2442300"/>
+ </create>
+ <create>
+  <node id="12067481074" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787638" lon="-114.2441401"/>
+ </create>
+ <create>
+  <node id="12067481075" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789967" lon="-114.2439591"/>
+ </create>
+ <create>
+  <node id="12067481076" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790507" lon="-114.2439008"/>
+ </create>
+ <create>
+  <node id="12067481077" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790234" lon="-114.2439287">
+   <tag k="crossing" v="uncontrolled"/>
+   <tag k="crossing:markings" v="yes"/>
+   <tag k="highway" v="crossing"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481078" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789246" lon="-114.2437799"/>
+ </create>
+ <create>
+  <node id="12067481079" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787276" lon="-114.2445449"/>
+ </create>
+ <create>
+  <node id="12067481080" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790640" lon="-114.2440130"/>
+ </create>
+ <create>
+  <node id="12067481081" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790496" lon="-114.2441208"/>
+ </create>
+ <create>
+  <node id="12067481082" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786920" lon="-114.2445453"/>
+ </create>
+ <create>
+  <node id="12067481083" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786207" lon="-114.2444926"/>
+ </create>
+ <create>
+  <node id="12067481084" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788509" lon="-114.2437242"/>
+ </create>
+ <create>
+  <node id="12067481085" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788975" lon="-114.2437474"/>
+ </create>
+ <create>
+  <node id="12067481086" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784866" lon="-114.2439614"/>
+ </create>
+ <create>
+  <node id="12067481087" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787782" lon="-114.2442853"/>
+ </create>
+ <create>
+  <node id="12067481088" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787542" lon="-114.2442538"/>
+ </create>
+ <create>
+  <node id="12067481089" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787943" lon="-114.2441974"/>
+ </create>
+ <create>
+  <node id="12067481090" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787353" lon="-114.2442286"/>
+ </create>
+ <create>
+  <node id="12067481091" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787118" lon="-114.2441974"/>
+ </create>
+ <create>
+  <node id="12067481092" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787518" lon="-114.2441415"/>
+ </create>
+ <create>
+  <node id="12067481093" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787754" lon="-114.2441726"/>
+ </create>
+ <create>
+  <node id="12067481094" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787507" lon="-114.2442341"/>
+ </create>
+ <create>
+  <node id="12067481095" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787912" lon="-114.2441778"/>
+ </create>
+ <create>
+  <node id="12067481096" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789814" lon="-114.2434861">
+   <tag k="leisure" v="picnic_table"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481097" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789485" lon="-114.2435242">
+   <tag k="leisure" v="picnic_table"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481098" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789229" lon="-114.2435556">
+   <tag k="leisure" v="picnic_table"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481099" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790357" lon="-114.2434458">
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481100" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790831" lon="-114.2429114"/>
+ </create>
+ <create>
+  <node id="12067481101" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790418" lon="-114.2430374"/>
+ </create>
+ <create>
+  <node id="12067481102" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789694" lon="-114.2430912"/>
+ </create>
+ <create>
+  <node id="12067481103" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784614" lon="-114.2432791"/>
+ </create>
+ <create>
+  <node id="12067481104" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784250" lon="-114.2419754"/>
+ </create>
+ <create>
+  <node id="12067481105" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784455" lon="-114.2419549"/>
+ </create>
+ <create>
+  <node id="12067481106" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784747" lon="-114.2419445"/>
+ </create>
+ <create>
+  <node id="12067481107" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786099" lon="-114.2419451"/>
+ </create>
+ <create>
+  <node id="12067481108" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786469" lon="-114.2419008"/>
+ </create>
+ <create>
+  <node id="12067481109" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786556" lon="-114.2418342"/>
+ </create>
+ <create>
+  <node id="12067481110" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786836" lon="-114.2417810"/>
+ </create>
+ <create>
+  <node id="12067481111" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787215" lon="-114.2417756"/>
+ </create>
+ <create>
+  <node id="12067481112" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791337" lon="-114.2417792"/>
+ </create>
+ <create>
+  <node id="12067481113" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793416" lon="-114.2411023"/>
+ </create>
+ <create>
+  <node id="12067481114" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793904" lon="-114.2405352"/>
+ </create>
+ <create>
+  <node id="12067481115" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794088" lon="-114.2404962"/>
+ </create>
+ <create>
+  <node id="12067481116" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795038" lon="-114.2404645"/>
+ </create>
+ <create>
+  <node id="12067481117" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807457" lon="-114.2406385"/>
+ </create>
+ <create>
+  <node id="12067481118" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807923" lon="-114.2406907"/>
+ </create>
+ <create>
+  <node id="12067481119" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6808022" lon="-114.2407352"/>
+ </create>
+ <create>
+  <node id="12067481120" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6805996" lon="-114.2425450"/>
+ </create>
+ <create>
+  <node id="12067481121" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806610" lon="-114.2424756"/>
+ </create>
+ <create>
+  <node id="12067481122" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806448" lon="-114.2425758"/>
+ </create>
+ <create>
+  <node id="12067481123" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806018" lon="-114.2433506"/>
+ </create>
+ <create>
+  <node id="12067481124" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6805059" lon="-114.2440814"/>
+ </create>
+ <create>
+  <node id="12067481125" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6804768" lon="-114.2441579"/>
+ </create>
+ <create>
+  <node id="12067481126" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803622" lon="-114.2442041"/>
+ </create>
+ <create>
+  <node id="12067481127" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802880" lon="-114.2441894"/>
+ </create>
+ <create>
+  <node id="12067481128" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800466" lon="-114.2440587"/>
+ </create>
+ <create>
+  <node id="12067481129" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6796837" lon="-114.2435430"/>
+ </create>
+ <create>
+  <node id="12067481130" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795232" lon="-114.2430261"/>
+ </create>
+ <create>
+  <node id="12067481131" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794813" lon="-114.2426906"/>
+ </create>
+ <create>
+  <node id="12067481132" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795220" lon="-114.2425479"/>
+ </create>
+ <create>
+  <node id="12067481133" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795815" lon="-114.2424969"/>
+ </create>
+ <create>
+  <node id="12067481134" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801887" lon="-114.2452955"/>
+ </create>
+ <create>
+  <node id="12067481135" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802332" lon="-114.2450610"/>
+ </create>
+ <create>
+  <node id="12067481136" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802978" lon="-114.2448055"/>
+ </create>
+ <create>
+  <node id="12067481137" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803541" lon="-114.2445707"/>
+ </create>
+ <create>
+  <node id="12067481138" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803788" lon="-114.2444301"/>
+ </create>
+ <create>
+  <node id="12067481139" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6804013" lon="-114.2441999"/>
+ </create>
+ <create>
+  <node id="12067481140" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794172" lon="-114.2405174">
+   <tag k="board:title" v="Making the Best of It"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481141" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807689" lon="-114.2406931">
+   <tag k="board:title" v="Creating Community"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481142" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806680" lon="-114.2423083">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481143" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806523" lon="-114.2423198">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481144" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803118" lon="-114.2422983">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481145" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800008" lon="-114.2422569">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481146" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6797097" lon="-114.2421868">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481147" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793871" lon="-114.2420768">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481148" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781788" lon="-114.2435769">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481149" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786425" lon="-114.2433106">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481150" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785219" lon="-114.2437730">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481151" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787929" lon="-114.2438262">
+   <tag k="natural" v="tree"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481152" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6797750" lon="-114.2423566">
+   <tag k="board:title" v="An American Education"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481153" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794216" lon="-114.2422272">
+   <tag k="board:title" v="Tar-papered Barracks"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481154" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791481" lon="-114.2426489">
+   <tag k="board:title" v="Baseball Saved Us"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481155" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791680" lon="-114.2425546">
+   <tag k="board:title" v="Recreation at Minidoka"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481156" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793217" lon="-114.2414832">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481157" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793164" lon="-114.2415279">
+   <tag k="board:title" v="Uncertain Future"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481158" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788940" lon="-114.2417568">
+   <tag k="board:title" v="Dust to Cropland"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481159" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787097" lon="-114.2417557">
+   <tag k="board:title" v="Root Cellar"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481160" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787397" lon="-114.2417493">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481161" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786008" lon="-114.2417481">
+   <tag k="historic" v="ruins"/>
+   <tag k="man_made" v="cellar_entrance"/>
+   <tag k="name" v="Root Cellar"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481162" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783204" lon="-114.2433210">
+   <tag k="board:title" v="Supporting the Camp"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481163" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788087" lon="-114.2431219">
+   <tag k="information" v="guidepost"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481164" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789769" lon="-114.2439502">
+   <tag k="man_made" v="flagpole"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481165" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6799085" lon="-114.2446785">
+   <tag k="historic" v="ruins"/>
+   <tag k="name" v="Gas Station"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481166" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803394" lon="-114.2453557">
+   <tag k="information" v="guidepost"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481167" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6808547" lon="-114.2459247">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481168" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803936" lon="-114.2454232"/>
+ </create>
+ <create>
+  <node id="12067481169" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6808292" lon="-114.2459532">
+   <tag k="board:title" v="Fire Station"/>
+   <tag k="board_type" v="history"/>
+   <tag k="information" v="board"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="tourism" v="information"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481170" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802782" lon="-114.2453957"/>
+ </create>
+ <create>
+  <node id="12067481171" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803198" lon="-114.2454209"/>
+ </create>
+ <create>
+  <node id="12067481172" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803807" lon="-114.2454733"/>
+ </create>
+ <create>
+  <node id="12067481173" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6805565" lon="-114.2456697"/>
+ </create>
+ <create>
+  <node id="12067481174" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806496" lon="-114.2457806"/>
+ </create>
+ <create>
+  <node id="12067481175" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807218" lon="-114.2458851"/>
+ </create>
+ <create>
+  <node id="12067481176" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807567" lon="-114.2459548"/>
+ </create>
+ <create>
+  <node id="12067481177" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807672" lon="-114.2459880"/>
+ </create>
+ <create>
+  <node id="12067481178" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807707" lon="-114.2460229"/>
+ </create>
+ <create>
+  <node id="12067481179" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791462" lon="-114.2447156"/>
+ </create>
+ <create>
+  <node id="12067481180" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791233" lon="-114.2437561">
+   <tag k="door" v="double"/>
+   <tag k="entrance" v="yes"/>
+   <tag k="wheelchair" v="yes"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481181" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791650" lon="-114.2438296">
+   <tag k="door" v="double"/>
+   <tag k="entrance" v="yes"/>
+   <tag k="wheelchair" v="yes"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481182" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789196" lon="-114.2434425">
+   <tag k="amenity" v="bench"/>
+   <tag k="backrest" v="yes"/>
+   <tag k="material" v="wood"/>
+  </node>
+ </create>
+ <create>
+  <node id="12067481183" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786849" lon="-114.2436028"/>
+ </create>
+ <create>
+  <node id="12067481184" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786856" lon="-114.2435830"/>
+ </create>
+ <create>
+  <node id="12067481185" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786815" lon="-114.2435640"/>
+ </create>
+ <create>
+  <node id="12067481186" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786732" lon="-114.2435478"/>
+ </create>
+ <create>
+  <node id="12067481187" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786614" lon="-114.2435362"/>
+ </create>
+ <create>
+  <node id="12067481188" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786474" lon="-114.2435304"/>
+ </create>
+ <create>
+  <node id="12067481189" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786329" lon="-114.2435310"/>
+ </create>
+ <create>
+  <node id="12067481190" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786005" lon="-114.2435677"/>
+ </create>
+ <create>
+  <node id="12067481191" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785974" lon="-114.2435871"/>
+ </create>
+ <create>
+  <node id="12067481192" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785990" lon="-114.2436068"/>
+ </create>
+ <create>
+  <node id="12067481193" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786053" lon="-114.2436247"/>
+ </create>
+ <create>
+  <node id="12067481194" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786156" lon="-114.2436389"/>
+ </create>
+ <create>
+  <node id="12067481195" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786286" lon="-114.2436477"/>
+ </create>
+ <create>
+  <node id="12067481196" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786431" lon="-114.2436503"/>
+ </create>
+ <create>
+  <node id="12067481197" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786193" lon="-114.2435381"/>
+ </create>
+ <create>
+  <node id="12067481198" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786081" lon="-114.2435507"/>
+ </create>
+ <create>
+  <node id="12067481199" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786574" lon="-114.2436464"/>
+ </create>
+ <create>
+  <node id="12067481200" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786700" lon="-114.2436364"/>
+ </create>
+ <create>
+  <node id="12067481201" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786795" lon="-114.2436213"/>
+ </create>
+ <create>
+  <way id="1302999140" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929819688"/>
+   <nd ref="12067452951"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999141" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452951"/>
+   <nd ref="7929819689"/>
+   <nd ref="12067452950"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="crossing" v="uncontrolled"/>
+   <tag k="crossing:markings" v="yes"/>
+   <tag k="dog" v="no"/>
+   <tag k="footway" v="crossing"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="surface" v="asphalt"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999142" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452952"/>
+   <nd ref="12067452953"/>
+   <nd ref="12067452954"/>
+   <nd ref="12067452955"/>
+   <nd ref="12067452952"/>
+   <tag k="building" v="yes"/>
+   <tag k="man_made" v="tower"/>
+   <tag k="tower:type" v="observation"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999143" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452956"/>
+   <nd ref="12067480977"/>
+   <nd ref="12067452957"/>
+   <nd ref="12067452958"/>
+   <nd ref="12067452959"/>
+   <nd ref="12067452960"/>
+   <nd ref="12067452961"/>
+   <nd ref="12067452962"/>
+   <nd ref="12067452963"/>
+   <nd ref="12067452956"/>
+   <tag k="access" v="yes"/>
+   <tag k="amenity" v="parking"/>
+   <tag k="capacity:disabled" v="1"/>
+   <tag k="fee" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="operator:type" v="government"/>
+   <tag k="parking" v="surface"/>
+   <tag k="smoothness" v="good"/>
+   <tag k="surface" v="asphalt"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999144" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452964"/>
+   <nd ref="12067452965"/>
+   <nd ref="12067480985"/>
+   <nd ref="12067480984"/>
+   <nd ref="12067452966"/>
+   <tag k="barrier" v="wall"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999145" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452967"/>
+   <nd ref="12067452968"/>
+   <nd ref="12067480969"/>
+   <nd ref="12067480970"/>
+   <nd ref="12067480971"/>
+   <nd ref="12067480972"/>
+   <nd ref="7929807949"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="excellent"/>
+   <tag k="surface" v="concrete"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999146" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067480977"/>
+   <nd ref="12067480978"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999147" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067480998"/>
+   <nd ref="12067480999"/>
+   <nd ref="12067481000"/>
+   <nd ref="12067481001"/>
+   <tag k="barrier" v="wall"/>
+   <tag k="description" v="Lists the names of incarcerated persons who served in the U.S. armed forces"/>
+   <tag k="historic" v="memorial"/>
+   <tag k="memorial" v="plaque"/>
+   <tag k="name" v="Honor Roll"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999148" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929819690"/>
+   <nd ref="12067481005"/>
+   <nd ref="12067481006"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999149" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481010"/>
+   <nd ref="12067481011"/>
+   <nd ref="12067481012"/>
+   <nd ref="12067481013"/>
+   <nd ref="7929819691"/>
+   <nd ref="12067481014"/>
+   <nd ref="12067481015"/>
+   <nd ref="12067481016"/>
+   <nd ref="12067481017"/>
+   <nd ref="12067481018"/>
+   <nd ref="12067481019"/>
+   <nd ref="12067481020"/>
+   <nd ref="12067481021"/>
+   <nd ref="12067481022"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999150" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481022"/>
+   <nd ref="7929819696"/>
+   <nd ref="12067481023"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="crossing" v="unmarked"/>
+   <tag k="crossing:markings" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="footway" v="crossing"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999151" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929807954"/>
+   <nd ref="12067481028"/>
+   <nd ref="12067481027"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999152" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481040"/>
+   <nd ref="7929807966"/>
+   <nd ref="12067481103"/>
+   <nd ref="12067481102"/>
+   <nd ref="7929807967"/>
+   <nd ref="12067481101"/>
+   <nd ref="7929807968"/>
+   <nd ref="12067481100"/>
+   <nd ref="7929807980"/>
+   <nd ref="7929807969"/>
+   <nd ref="7929807981"/>
+   <nd ref="12067481113"/>
+   <nd ref="7929807970"/>
+   <nd ref="12067481114"/>
+   <nd ref="12067481115"/>
+   <nd ref="7929807971"/>
+   <nd ref="12067481116"/>
+   <nd ref="7929807972"/>
+   <nd ref="12067481117"/>
+   <nd ref="7929807973"/>
+   <nd ref="12067481118"/>
+   <nd ref="12067481119"/>
+   <nd ref="7929807974"/>
+   <nd ref="7929807977"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999153" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481039"/>
+   <nd ref="7929819685"/>
+   <nd ref="12067481040"/>
+   <tag k="crossing" v="uncontrolled"/>
+   <tag k="crossing:markings" v="yes"/>
+   <tag k="footway" v="crossing"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999154" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129458594"/>
+   <nd ref="129458597"/>
+   <nd ref="129458599"/>
+   <nd ref="129458601"/>
+   <nd ref="129458604"/>
+   <nd ref="129458608"/>
+   <nd ref="129458609"/>
+   <nd ref="129458612"/>
+   <nd ref="129458616"/>
+   <nd ref="129458618"/>
+   <nd ref="129458622"/>
+   <nd ref="129458624"/>
+   <nd ref="129458628"/>
+   <nd ref="129458631"/>
+   <nd ref="129458633"/>
+   <nd ref="129458635"/>
+   <nd ref="129458638"/>
+   <nd ref="129458641"/>
+   <nd ref="129458644"/>
+   <nd ref="129458649"/>
+   <nd ref="129458652"/>
+   <nd ref="129458656"/>
+   <nd ref="129458659"/>
+   <nd ref="129458662"/>
+   <nd ref="129458665"/>
+   <nd ref="129458668"/>
+   <nd ref="129458671"/>
+   <nd ref="129458674"/>
+   <nd ref="129458677"/>
+   <nd ref="129458680"/>
+   <nd ref="129458682"/>
+   <nd ref="129458685"/>
+   <nd ref="129458687"/>
+   <tag k="highway" v="track"/>
+   <tag k="tiger:cfcc" v="A41"/>
+   <tag k="tiger:county" v="Jerome, ID"/>
+   <tag k="tiger:reviewed" v="no"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999155" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129458594"/>
+   <nd ref="129546291"/>
+   <nd ref="129546297"/>
+   <tag k="highway" v="service"/>
+   <tag k="surface" v="unpaved"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999156" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481052"/>
+   <nd ref="12067481053"/>
+   <nd ref="12067481054"/>
+   <tag k="barrier" v="fence"/>
+   <tag k="fence_type" v="barbed_wire"/>
+   <tag k="material" v="wood"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999157" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481057"/>
+   <nd ref="7929819736"/>
+   <nd ref="12067481181"/>
+   <nd ref="7929819737"/>
+   <nd ref="12067481058"/>
+   <nd ref="12067481057"/>
+   <tag k="access" v="yes"/>
+   <tag k="amenity" v="toilets"/>
+   <tag k="building" v="yes"/>
+   <tag k="female" v="yes"/>
+   <tag k="gender_segregated" v="yes"/>
+   <tag k="male" v="yes"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999158" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481075"/>
+   <nd ref="12067481061"/>
+   <nd ref="12067481062"/>
+   <nd ref="12067481063"/>
+   <nd ref="12067481064"/>
+   <nd ref="12067481065"/>
+   <nd ref="12067481066"/>
+   <nd ref="12067481067"/>
+   <nd ref="12067481068"/>
+   <nd ref="12067481069"/>
+   <nd ref="12067481070"/>
+   <nd ref="12067481071"/>
+   <nd ref="12067481072"/>
+   <nd ref="12067481073"/>
+   <nd ref="12067481095"/>
+   <nd ref="12067481074"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="excellent"/>
+   <tag k="surface" v="concrete"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999159" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481076"/>
+   <nd ref="12067481077"/>
+   <nd ref="12067481075"/>
+   <tag k="crossing:markings" v="yes"/>
+   <tag k="footway" v="crossing"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="excellent"/>
+   <tag k="surface" v="concrete"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999160" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481060"/>
+   <nd ref="12067481059"/>
+   <nd ref="12067481076"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="excellent"/>
+   <tag k="surface" v="concrete"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999161" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481087"/>
+   <nd ref="12067481088"/>
+   <nd ref="12067481089"/>
+   <nd ref="11150300158"/>
+   <nd ref="12067481087"/>
+   <tag k="amenity" v="parking_space"/>
+   <tag k="parking_space" v="disabled"/>
+   <tag k="surface" v="concrete"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999162" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481090"/>
+   <nd ref="12067481091"/>
+   <nd ref="12067481092"/>
+   <nd ref="12067481093"/>
+   <nd ref="12067481090"/>
+   <tag k="amenity" v="parking_space"/>
+   <tag k="parking_space" v="disabled"/>
+   <tag k="surface" v="concrete"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999163" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481094"/>
+   <nd ref="12067481095"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="excellent"/>
+   <tag k="surface" v="concrete"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999164" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929807977"/>
+   <nd ref="7929807975"/>
+   <nd ref="7929807915"/>
+   <tag k="highway" v="footway"/>
+   <tag k="smoothness" v="bad"/>
+   <tag k="surface" v="dirt"/>
+   <tag k="wheelchair" v="no"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999165" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481134"/>
+   <nd ref="12067481135"/>
+   <nd ref="12067481136"/>
+   <nd ref="12067481137"/>
+   <nd ref="12067481138"/>
+   <nd ref="12067481139"/>
+   <tag k="highway" v="service"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="surface" v="dirt"/>
+  </way>
+ </create>
+ <create>
+  <way id="1302999166" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481199"/>
+   <nd ref="12067481200"/>
+   <nd ref="12067481201"/>
+   <nd ref="12067481183"/>
+   <nd ref="12067481184"/>
+   <nd ref="12067481185"/>
+   <nd ref="12067481186"/>
+   <nd ref="12067481187"/>
+   <nd ref="12067481188"/>
+   <nd ref="12067481189"/>
+   <nd ref="12067481197"/>
+   <nd ref="12067481198"/>
+   <nd ref="12067481190"/>
+   <nd ref="12067481191"/>
+   <nd ref="12067481192"/>
+   <nd ref="12067481193"/>
+   <nd ref="12067481194"/>
+   <nd ref="12067481195"/>
+   <nd ref="12067481196"/>
+   <nd ref="12067481199"/>
+   <tag k="building" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <relation id="17863389" visible="true" version="1" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <member type="way" ref="849978765" role="outer"/>
+   <tag k="man_made" v="courtyard"/>
+   <tag k="type" v="multipolygon"/>
+  </relation>
+ </create>
+ <modify>
+  <node id="7929807915" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806735" lon="-114.2426258"/>
+ </modify>
+ <modify>
+  <node id="7929807916" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6805266" lon="-114.2440050"/>
+ </modify>
+ <modify>
+  <node id="7929807917" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6804218" lon="-114.2441977"/>
+ </modify>
+ <modify>
+  <node id="7929807918" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801892" lon="-114.2441443"/>
+ </modify>
+ <modify>
+  <node id="7929807919" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6799252" lon="-114.2439443"/>
+ </modify>
+ <modify>
+  <node id="7929807920" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6797913" lon="-114.2437604"/>
+ </modify>
+ <modify>
+  <node id="7929807921" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795950" lon="-114.2432986"/>
+ </modify>
+ <modify>
+  <node id="7929807922" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794878" lon="-114.2428224"/>
+ </modify>
+ <modify>
+  <node id="7929807923" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794923" lon="-114.2426051"/>
+ </modify>
+ <modify>
+  <node id="7929807924" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6796574" lon="-114.2424747"/>
+ </modify>
+ <modify>
+  <node id="7929807949" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779563" lon="-114.2510206"/>
+ </modify>
+ <modify>
+  <node id="7929807950" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779324" lon="-114.2507635"/>
+ </modify>
+ <modify>
+  <node id="7929807952" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779542" lon="-114.2500165"/>
+ </modify>
+ <modify>
+  <node id="7929807953" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778783" lon="-114.2494523"/>
+ </modify>
+ <modify>
+  <node id="7929807954" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778712" lon="-114.2490172"/>
+ </modify>
+ <modify>
+  <node id="7929807956" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778118" lon="-114.2480867"/>
+ </modify>
+ <modify>
+  <node id="7929807957" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779012" lon="-114.2475115"/>
+ </modify>
+ <modify>
+  <node id="7929807958" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778703" lon="-114.2473894"/>
+ </modify>
+ <modify>
+  <node id="7929807959" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6775547" lon="-114.2469396"/>
+ </modify>
+ <modify>
+  <node id="7929807961" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768439" lon="-114.2465368"/>
+ </modify>
+ <modify>
+  <node id="7929807963" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6763424" lon="-114.2443947"/>
+ </modify>
+ <modify>
+  <node id="7929807964" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768421" lon="-114.2435793"/>
+ </modify>
+ <modify>
+  <node id="7929807965" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777219" lon="-114.2433538"/>
+ </modify>
+ <modify>
+  <node id="7929807966" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784148" lon="-114.2432877"/>
+ </modify>
+ <modify>
+  <node id="7929807967" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790106" lon="-114.2430773"/>
+ </modify>
+ <modify>
+  <node id="7929807968" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790631" lon="-114.2429784"/>
+ </modify>
+ <modify>
+  <node id="7929807970" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793790" lon="-114.2406017"/>
+ </modify>
+ <modify>
+  <node id="7929807971" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794439" lon="-114.2404725"/>
+ </modify>
+ <modify>
+  <node id="7929807975" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806841" lon="-114.2425632"/>
+ </modify>
+ <delete>
+  <node id="7929807976" visible="false" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="7929807977" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806909" lon="-114.2424611"/>
+ </modify>
+ <modify>
+  <node id="7929807978" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6796329" lon="-114.2423116"/>
+ </modify>
+ <modify>
+  <node id="7929807979" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794011" lon="-114.2422426"/>
+ </modify>
+ <modify>
+  <node id="7929807980" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6792295" lon="-114.2421910"/>
+ </modify>
+ <modify>
+  <node id="7929807981" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6792848" lon="-114.2417976"/>
+ </modify>
+ <modify>
+  <node id="7929807982" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786670" lon="-114.2418001"/>
+ </modify>
+ <modify>
+  <node id="7929807984" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784149" lon="-114.2420128"/>
+ </modify>
+ <modify>
+  <node id="7929819685" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778884" lon="-114.2433265">
+   <tag k="crossing" v="uncontrolled"/>
+   <tag k="crossing:markings" v="yes"/>
+   <tag k="highway" v="crossing"/>
+  </node>
+ </modify>
+ <modify>
+  <node id="7929819688" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779307" lon="-114.2508388"/>
+ </modify>
+ <modify>
+  <node id="7929819691" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781715" lon="-114.2506884"/>
+ </modify>
+ <modify>
+  <node id="7929819696" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784796" lon="-114.2498195"/>
+ </modify>
+ <modify>
+  <node id="7929819697" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6798977" lon="-114.2470151"/>
+ </modify>
+ <modify>
+  <node id="7929819698" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6803302" lon="-114.2453817"/>
+ </modify>
+ <modify>
+  <node id="7929819724" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801164" lon="-114.2411631"/>
+ </modify>
+ <modify>
+  <node id="7929819725" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801402" lon="-114.2407915"/>
+ </modify>
+ <modify>
+  <node id="7929819726" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800134" lon="-114.2407765"/>
+ </modify>
+ <modify>
+  <node id="7929819727" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6799896" lon="-114.2411481"/>
+ </modify>
+ <modify>
+  <node id="7929819728" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6798990" lon="-114.2407644"/>
+ </modify>
+ <modify>
+  <node id="7929819729" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795622" lon="-114.2407225"/>
+ </modify>
+ <modify>
+  <node id="7929819730" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795567" lon="-114.2408051"/>
+ </modify>
+ <modify>
+  <node id="7929819731" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6798935" lon="-114.2408469"/>
+ </modify>
+ <modify>
+  <node id="7929819732" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791732" lon="-114.2436988"/>
+ </modify>
+ <modify>
+  <node id="7929819733" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790688" lon="-114.2438182"/>
+ </modify>
+ <modify>
+  <node id="7929819734" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789474" lon="-114.2436221"/>
+ </modify>
+ <modify>
+  <node id="7929819735" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790520" lon="-114.2435025"/>
+ </modify>
+ <modify>
+  <node id="7929819736" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6792170" lon="-114.2437701"/>
+ </modify>
+ <modify>
+  <node id="7929819737" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791130" lon="-114.2438892"/>
+ </modify>
+ <modify>
+  <node id="7929819738" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791055" lon="-114.2447146"/>
+ </modify>
+ <modify>
+  <node id="7929819739" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790206" lon="-114.2446127"/>
+ </modify>
+ <modify>
+  <node id="7929819740" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789680" lon="-114.2446939"/>
+ </modify>
+ <modify>
+  <node id="7929819741" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790529" lon="-114.2447957"/>
+ </modify>
+ <modify>
+  <node id="7929819748" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6790545" lon="-114.2448430"/>
+ </modify>
+ <modify>
+  <node id="7929819761" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786466" lon="-114.2435069"/>
+ </modify>
+ <modify>
+  <node id="7929819762" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785937" lon="-114.2435357"/>
+ </modify>
+ <modify>
+  <node id="7929819763" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785676" lon="-114.2434471"/>
+ </modify>
+ <modify>
+  <node id="7929819764" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786206" lon="-114.2434183"/>
+ </modify>
+ <modify>
+  <node id="7929819765" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789251" lon="-114.2434225"/>
+ </modify>
+ <modify>
+  <node id="7929819766" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788761" lon="-114.2434500"/>
+ </modify>
+ <modify>
+  <node id="7929819767" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788559" lon="-114.2433832"/>
+ </modify>
+ <modify>
+  <node id="7929819768" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789049" lon="-114.2433557"/>
+ </modify>
+ <modify>
+  <node id="10573269173" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6761372" lon="-114.2691287"/>
+ </modify>
+ <modify>
+  <node id="11150300152" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786551" lon="-114.2445261"/>
+ </modify>
+ <modify>
+  <node id="11150300156" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788195" lon="-114.2437278"/>
+ </modify>
+ <modify>
+  <node id="11150300157" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786960" lon="-114.2444005"/>
+ </modify>
+ <modify>
+  <node id="11150300158" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788183" lon="-114.2442291"/>
+ </modify>
+ <modify>
+  <node id="11150300159" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786188" lon="-114.2439660"/>
+ </modify>
+ <modify>
+  <node id="11150300160" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784966" lon="-114.2441374"/>
+ </modify>
+ <modify>
+  <node id="11150300163" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784464" lon="-114.2439417"/>
+ </modify>
+ <modify>
+  <way id="13832501" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129475599"/>
+   <nd ref="12067452934"/>
+   <nd ref="129475596"/>
+   <nd ref="129475595"/>
+   <nd ref="129475589"/>
+   <nd ref="12067452935"/>
+   <nd ref="129475585"/>
+   <nd ref="129475582"/>
+   <nd ref="129475579"/>
+   <nd ref="12067452936"/>
+   <nd ref="129475576"/>
+   <nd ref="129475573"/>
+   <nd ref="12067452937"/>
+   <nd ref="12067452938"/>
+   <nd ref="12067481170"/>
+   <nd ref="12067481171"/>
+   <nd ref="12067481172"/>
+   <nd ref="12067481173"/>
+   <nd ref="12067481174"/>
+   <nd ref="12067481175"/>
+   <nd ref="12067481176"/>
+   <nd ref="12067481177"/>
+   <nd ref="12067481178"/>
+   <tag k="access" v="private"/>
+   <tag k="highway" v="service"/>
+   <tag k="surface" v="gravel"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="13836139" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452927"/>
+   <nd ref="12067452929"/>
+   <nd ref="12067452930"/>
+   <nd ref="129475599"/>
+   <nd ref="12067452931"/>
+   <nd ref="12067452932"/>
+   <nd ref="7929819696"/>
+   <nd ref="12067452933"/>
+   <nd ref="129649184"/>
+   <nd ref="129649187"/>
+   <nd ref="129649190"/>
+   <nd ref="129649193"/>
+   <nd ref="12067481047"/>
+   <nd ref="129458594"/>
+   <tag k="highway" v="residential"/>
+   <tag k="name" v="South 1400 East"/>
+   <tag k="surface" v="unpaved"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978740" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929807915"/>
+   <nd ref="12067481123"/>
+   <nd ref="7929807916"/>
+   <nd ref="12067481124"/>
+   <nd ref="12067481125"/>
+   <nd ref="7929807917"/>
+   <nd ref="12067481139"/>
+   <nd ref="12067481126"/>
+   <nd ref="12067481127"/>
+   <nd ref="7929807918"/>
+   <nd ref="12067481128"/>
+   <nd ref="7929807919"/>
+   <nd ref="7929807920"/>
+   <nd ref="12067481129"/>
+   <nd ref="7929807921"/>
+   <nd ref="12067481130"/>
+   <nd ref="7929807922"/>
+   <nd ref="12067481131"/>
+   <nd ref="7929807923"/>
+   <nd ref="12067481132"/>
+   <nd ref="12067481133"/>
+   <nd ref="7929807924"/>
+   <nd ref="12067481120"/>
+   <nd ref="12067481122"/>
+   <nd ref="7929807915"/>
+   <tag k="disused" v="yes"/>
+   <tag k="historic" v="yes"/>
+   <tag k="leisure" v="pitch"/>
+   <tag k="sport" v="baseball"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978747" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929807949"/>
+   <nd ref="12067480973"/>
+   <nd ref="7929819688"/>
+   <nd ref="7929807950"/>
+   <nd ref="7929807951"/>
+   <nd ref="12067480986"/>
+   <nd ref="12067480987"/>
+   <nd ref="7929807952"/>
+   <nd ref="7929807953"/>
+   <nd ref="7929807954"/>
+   <nd ref="7929807955"/>
+   <nd ref="7929807956"/>
+   <nd ref="12067481036"/>
+   <nd ref="12067481037"/>
+   <nd ref="7929807957"/>
+   <nd ref="12067481038"/>
+   <nd ref="7929807958"/>
+   <nd ref="7929807959"/>
+   <nd ref="12067481035"/>
+   <nd ref="7929807960"/>
+   <nd ref="7929807961"/>
+   <nd ref="12067481034"/>
+   <nd ref="7929807962"/>
+   <nd ref="7929807963"/>
+   <nd ref="12067481032"/>
+   <nd ref="12067481033"/>
+   <nd ref="7929807964"/>
+   <nd ref="7929819686"/>
+   <nd ref="7929807965"/>
+   <nd ref="12067481039"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978748" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929807977"/>
+   <nd ref="12067481121"/>
+   <nd ref="7929807978"/>
+   <nd ref="7929807979"/>
+   <nd ref="7929807980"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978749" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929807981"/>
+   <nd ref="12067481112"/>
+   <nd ref="12067481111"/>
+   <nd ref="12067481110"/>
+   <nd ref="7929807982"/>
+   <nd ref="12067481109"/>
+   <nd ref="12067481108"/>
+   <nd ref="7929807983"/>
+   <nd ref="12067481107"/>
+   <nd ref="12067481106"/>
+   <nd ref="12067481105"/>
+   <nd ref="12067481104"/>
+   <nd ref="7929807984"/>
+   <nd ref="7929807966"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978750" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929819686"/>
+   <nd ref="7929819687"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978751" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067452950"/>
+   <nd ref="7929819690"/>
+   <nd ref="7929819691"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978753" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481023"/>
+   <nd ref="12067481024"/>
+   <nd ref="12067481026"/>
+   <nd ref="12067481025"/>
+   <nd ref="7929819697"/>
+   <nd ref="12067481171"/>
+   <nd ref="7929819698"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="dog" v="no"/>
+   <tag k="highway" v="footway"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="smoothness" v="intermediate"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="limited"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978761" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929819732"/>
+   <nd ref="12067481180"/>
+   <nd ref="7929819733"/>
+   <nd ref="7929819734"/>
+   <nd ref="7929819735"/>
+   <nd ref="7929819732"/>
+   <tag k="addr:city" v="Jerome"/>
+   <tag k="addr:housenumber" v="1428"/>
+   <tag k="addr:postcode" v="83338"/>
+   <tag k="addr:state" v="ID"/>
+   <tag k="addr:street" v="Hunt Road"/>
+   <tag k="building" v="yes"/>
+   <tag k="information" v="office"/>
+   <tag k="name" v="Minidoka Visitor Center"/>
+   <tag k="opening_hours" v="Fr-Su 10:00-17:00; PH off"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="phone" v="+1-208-825-4169"/>
+   <tag k="tourism" v="information"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978762" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929819732"/>
+   <nd ref="7929819736"/>
+   <nd ref="12067481181"/>
+   <nd ref="7929819737"/>
+   <nd ref="12067481060"/>
+   <nd ref="7929819733"/>
+   <nd ref="12067481180"/>
+   <nd ref="7929819732"/>
+   <tag k="area" v="yes"/>
+   <tag k="covered" v="yes"/>
+   <tag k="highway" v="pedestrian"/>
+   <tag k="man_made" v="courtyard"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978765" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="12067481179"/>
+   <nd ref="7929819746"/>
+   <nd ref="7929819747"/>
+   <nd ref="7929819748"/>
+   <nd ref="12067481179"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="849978768" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="7929819757"/>
+   <nd ref="7929819758"/>
+   <nd ref="7929819759"/>
+   <nd ref="7929819760"/>
+   <nd ref="7929819757"/>
+   <tag k="man_made" v="courtyard"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="1202795161" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="11150300155"/>
+   <nd ref="11150300154"/>
+   <nd ref="11150300153"/>
+   <nd ref="12067481083"/>
+   <nd ref="11150300152"/>
+   <nd ref="12067481082"/>
+   <nd ref="12067481079"/>
+   <nd ref="11150300151"/>
+   <nd ref="11150300161"/>
+   <nd ref="11150300150"/>
+   <nd ref="11150300149"/>
+   <nd ref="11150300148"/>
+   <nd ref="12067481081"/>
+   <nd ref="11150300147"/>
+   <nd ref="12067481080"/>
+   <nd ref="11150300146"/>
+   <nd ref="12067481077"/>
+   <nd ref="12067481078"/>
+   <nd ref="12067481085"/>
+   <nd ref="129440475"/>
+   <nd ref="12067481084"/>
+   <nd ref="11150300156"/>
+   <nd ref="129440476"/>
+   <nd ref="11150300163"/>
+   <nd ref="11150300155"/>
+   <nd ref="129440478"/>
+   <tag k="highway" v="service"/>
+   <tag k="surface" v="gravel"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="1202795162" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="11150300157"/>
+   <nd ref="12067481087"/>
+   <nd ref="11150300158"/>
+   <nd ref="12067481089"/>
+   <nd ref="12067481093"/>
+   <nd ref="12067481092"/>
+   <nd ref="11150300159"/>
+   <nd ref="11150300160"/>
+   <nd ref="11150300157"/>
+   <tag k="access" v="yes"/>
+   <tag k="amenity" v="parking"/>
+   <tag k="capacity:disabled" v="2"/>
+   <tag k="fee" v="no"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="operator:type" v="government"/>
+   <tag k="parking" v="surface"/>
+   <tag k="surface" v="gravel"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="1202795163" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="11150300161"/>
+   <nd ref="11150300162"/>
+   <nd ref="12067481086"/>
+   <nd ref="11150300163"/>
+   <tag k="highway" v="service"/>
+   <tag k="service" v="parking_aisle"/>
+   <tag k="surface" v="gravel"/>
+  </way>
+ </modify>
+ <modify>
+  <relation id="6027067" visible="true" version="2" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <member type="way" ref="401760476" role="outer"/>
+   <member type="way" ref="401760475" role="outer"/>
+   <tag k="boundary" v="national_park"/>
+   <tag k="boundary:type" v="protected_area"/>
+   <tag k="gnis:feature_id" v="2071860"/>
+   <tag k="leisure" v="nature_reserve"/>
+   <tag k="name" v="Minidoka National Historic Site"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="operator:short" v="NPS"/>
+   <tag k="operator:type" v="public"/>
+   <tag k="operator:wikidata" v="Q308439"/>
+   <tag k="ownership" v="national"/>
+   <tag k="protect_class" v="2"/>
+   <tag k="protected" v="perpetuity"/>
+   <tag k="protection_title" v="National Historic Site"/>
+   <tag k="type" v="boundary"/>
+   <tag k="website" v="https://www.nps.gov/miin/index.htm"/>
+  </relation>
+ </modify>
+ <modify>
+  <node id="129414438" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779020" lon="-114.1688020"/>
+ </modify>
+ <modify>
+  <node id="129440447" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6807182" lon="-114.2457794"/>
+ </modify>
+ <modify>
+  <node id="129440449" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6806092" lon="-114.2456495"/>
+ </modify>
+ <modify>
+  <node id="129440451" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6805056" lon="-114.2455303"/>
+ </modify>
+ <modify>
+  <node id="129440452" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6802718" lon="-114.2453442"/>
+ </modify>
+ <delete>
+  <node id="129440453" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129440454" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800302" lon="-114.2451267"/>
+ </modify>
+ <modify>
+  <node id="129440478" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780839" lon="-114.2441809"/>
+ </modify>
+ <modify>
+  <node id="129450066" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779810" lon="-114.1860145"/>
+ </modify>
+ <modify>
+  <node id="129450069" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6784290" lon="-114.1859645"/>
+ </modify>
+ <modify>
+  <node id="129458594" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6852784" lon="-114.2497521"/>
+ </modify>
+ <modify>
+  <node id="129458597" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6852551" lon="-114.2499866"/>
+ </modify>
+ <modify>
+  <node id="129470637" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783371" lon="-114.2580695"/>
+ </modify>
+ <modify>
+  <node id="129470641" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782770" lon="-114.2582636"/>
+ </modify>
+ <modify>
+  <node id="129470644" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782497" lon="-114.2583406"/>
+ </modify>
+ <modify>
+  <node id="129475573" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801410" lon="-114.2454319"/>
+ </modify>
+ <modify>
+  <node id="129475576" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6801000" lon="-114.2454835"/>
+ </modify>
+ <modify>
+  <node id="129475579" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800205" lon="-114.2457413"/>
+ </modify>
+ <modify>
+  <node id="129475582" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6797105" lon="-114.2469939"/>
+ </modify>
+ <modify>
+  <node id="129475585" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6796189" lon="-114.2473072"/>
+ </modify>
+ <modify>
+  <node id="129475589" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794470" lon="-114.2477147"/>
+ </modify>
+ <delete>
+  <node id="129475592" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129475595" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791789" lon="-114.2482452"/>
+ </modify>
+ <modify>
+  <node id="129475596" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786565" lon="-114.2492353"/>
+ </modify>
+ <modify>
+  <node id="129475599" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783447" lon="-114.2498773"/>
+ </modify>
+ <modify>
+  <node id="129509474" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780933" lon="-114.2056654"/>
+ </modify>
+ <modify>
+  <node id="129535382" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780543" lon="-114.2002986"/>
+ </modify>
+ <modify>
+  <node id="129546291" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6854843" lon="-114.2497233"/>
+ </modify>
+ <modify>
+  <node id="129546297" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6858033" lon="-114.2496755"/>
+ </modify>
+ <modify>
+  <node id="129587596" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779840" lon="-114.1857725"/>
+ </modify>
+ <modify>
+  <node id="129587600" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6772810" lon="-114.1857732"/>
+ </modify>
+ <modify>
+  <node id="129587603" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6769608" lon="-114.1857810"/>
+ </modify>
+ <modify>
+  <node id="129587605" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768115" lon="-114.1857402"/>
+ </modify>
+ <modify>
+  <node id="129587610" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6765225" lon="-114.1856077"/>
+ </modify>
+ <modify>
+  <node id="129596634" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793657" lon="-114.2531628"/>
+ </modify>
+ <modify>
+  <node id="129596638" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795982" lon="-114.2521926"/>
+ </modify>
+ <modify>
+  <node id="129596641" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6795792" lon="-114.2520684"/>
+ </modify>
+ <modify>
+  <node id="129596644" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794868" lon="-114.2519447"/>
+ </modify>
+ <modify>
+  <node id="129596645" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788245" lon="-114.2514853"/>
+ </modify>
+ <modify>
+  <node id="129596649" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782572" lon="-114.2511298"/>
+ </modify>
+ <modify>
+  <node id="129596652" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780158" lon="-114.2510337"/>
+ </modify>
+ <delete>
+  <node id="129621808" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="129621812" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="129621815" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="129621818" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129621820" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6629921" lon="-114.2848461"/>
+ </modify>
+ <modify>
+  <node id="129649184" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6800563" lon="-114.2497981"/>
+ </modify>
+ <modify>
+  <node id="129649187" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6818120" lon="-114.2497711"/>
+ </modify>
+ <modify>
+  <node id="129649190" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6831423" lon="-114.2497465"/>
+ </modify>
+ <modify>
+  <node id="129649193" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6844413" lon="-114.2497393"/>
+ </modify>
+ <modify>
+  <node id="129664205" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6639746" lon="-114.2837552"/>
+ </modify>
+ <modify>
+  <node id="129679393" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779372" lon="-114.1491970"/>
+ </modify>
+ <modify>
+  <node id="129679395" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779365" lon="-114.1508109"/>
+ </modify>
+ <modify>
+  <node id="129679397" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779357" lon="-114.1520780"/>
+ </modify>
+ <modify>
+  <node id="129679402" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779382" lon="-114.1542209"/>
+ </modify>
+ <modify>
+  <node id="129679406" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779315" lon="-114.1580352"/>
+ </modify>
+ <modify>
+  <node id="129679412" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779219" lon="-114.1623670"/>
+ </modify>
+ <modify>
+  <node id="129679418" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779120" lon="-114.1677341"/>
+ </modify>
+ <modify>
+  <node id="129679420" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779035" lon="-114.1699991"/>
+ </modify>
+ <delete>
+  <node id="129679422" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="129679428" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679431" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779298" lon="-114.1748534"/>
+ </modify>
+ <delete>
+  <node id="129679435" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679439" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779310" lon="-114.1765350"/>
+ </modify>
+ <delete>
+  <node id="129679442" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679445" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779360" lon="-114.1773362"/>
+ </modify>
+ <modify>
+  <node id="129679451" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779533" lon="-114.1801346"/>
+ </modify>
+ <modify>
+  <node id="129679455" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779695" lon="-114.1834615"/>
+ </modify>
+ <delete>
+  <node id="129679457" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679459" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779825" lon="-114.1869999"/>
+ </modify>
+ <modify>
+  <node id="129679469" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780163" lon="-114.1920814"/>
+ </modify>
+ <modify>
+  <node id="129679476" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780340" lon="-114.1954520"/>
+ </modify>
+ <modify>
+  <node id="129679483" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780428" lon="-114.1975856"/>
+ </modify>
+ <modify>
+  <node id="129679485" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780500" lon="-114.2004748"/>
+ </modify>
+ <modify>
+  <node id="129679487" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780382" lon="-114.2006184"/>
+ </modify>
+ <modify>
+  <node id="129679488" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780118" lon="-114.2008279"/>
+ </modify>
+ <modify>
+  <node id="129679491" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778455" lon="-114.2018131"/>
+ </modify>
+ <modify>
+  <node id="129679495" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778328" lon="-114.2021184"/>
+ </modify>
+ <modify>
+  <node id="129679501" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778693" lon="-114.2024199"/>
+ </modify>
+ <delete>
+  <node id="129679503" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679515" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780820" lon="-114.2037938"/>
+ </modify>
+ <modify>
+  <node id="129679519" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781028" lon="-114.2086379"/>
+ </modify>
+ <modify>
+  <node id="129679521" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781293" lon="-114.2141666"/>
+ </modify>
+ <delete>
+  <node id="129679526" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679541" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6781288" lon="-114.2286206"/>
+ </modify>
+ <modify>
+  <node id="129679556" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783555" lon="-114.2364998"/>
+ </modify>
+ <modify>
+  <node id="129679559" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783827" lon="-114.2367343"/>
+ </modify>
+ <modify>
+  <node id="129679560" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783787" lon="-114.2374351"/>
+ </modify>
+ <modify>
+  <node id="129679563" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783320" lon="-114.2382034"/>
+ </modify>
+ <modify>
+  <node id="129679567" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783030" lon="-114.2387430"/>
+ </modify>
+ <modify>
+  <node id="129679569" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782790" lon="-114.2392405"/>
+ </modify>
+ <modify>
+  <node id="129679575" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778870" lon="-114.2414505"/>
+ </modify>
+ <modify>
+  <node id="129679577" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778630" lon="-114.2416713"/>
+ </modify>
+ <modify>
+  <node id="129679579" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778525" lon="-114.2418943"/>
+ </modify>
+ <modify>
+  <node id="129679581" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778493" lon="-114.2421184"/>
+ </modify>
+ <modify>
+  <node id="129679587" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778685" lon="-114.2431202"/>
+ </modify>
+ <modify>
+  <node id="129679591" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779464" lon="-114.2436715"/>
+ </modify>
+ <modify>
+  <node id="129679594" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782013" lon="-114.2446067"/>
+ </modify>
+ <modify>
+  <node id="129679598" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782774" lon="-114.2451567"/>
+ </modify>
+ <modify>
+  <node id="129679600" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782832" lon="-114.2461355"/>
+ </modify>
+ <modify>
+  <node id="129679603" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782896" lon="-114.2468314"/>
+ </modify>
+ <modify>
+  <node id="129679604" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782950" lon="-114.2475963"/>
+ </modify>
+ <modify>
+  <node id="129679607" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782980" lon="-114.2487944"/>
+ </modify>
+ <modify>
+  <node id="129679609" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782930" lon="-114.2490969"/>
+ </modify>
+ <modify>
+  <node id="129679616" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780954" lon="-114.2504445"/>
+ </modify>
+ <delete>
+  <node id="129679620" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679622" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780127" lon="-114.2514320"/>
+ </modify>
+ <modify>
+  <node id="129679625" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780202" lon="-114.2517480"/>
+ </modify>
+ <modify>
+  <node id="129679627" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780183" lon="-114.2519691"/>
+ </modify>
+ <modify>
+  <node id="129679628" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779924" lon="-114.2522529"/>
+ </modify>
+ <modify>
+  <node id="129679630" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779738" lon="-114.2523589"/>
+ </modify>
+ <modify>
+  <node id="129679643" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777016" lon="-114.2531405"/>
+ </modify>
+ <modify>
+  <node id="129679665" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6769569" lon="-114.2561713"/>
+ </modify>
+ <modify>
+  <node id="129679668" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6770062" lon="-114.2563689"/>
+ </modify>
+ <modify>
+  <node id="129679670" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6770766" lon="-114.2565393"/>
+ </modify>
+ <modify>
+  <node id="129679676" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6778630" lon="-114.2578453"/>
+ </modify>
+ <delete>
+  <node id="129679679" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679681" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783784" lon="-114.2585155"/>
+ </modify>
+ <modify>
+  <node id="129679683" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6786240" lon="-114.2588956"/>
+ </modify>
+ <modify>
+  <node id="129679685" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787206" lon="-114.2590879"/>
+ </modify>
+ <modify>
+  <node id="129679688" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788592" lon="-114.2593998"/>
+ </modify>
+ <modify>
+  <node id="129679691" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6791020" lon="-114.2599453"/>
+ </modify>
+ <modify>
+  <node id="129679694" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793699" lon="-114.2607132"/>
+ </modify>
+ <modify>
+  <node id="129679698" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794094" lon="-114.2609198"/>
+ </modify>
+ <modify>
+  <node id="129679701" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794406" lon="-114.2611365"/>
+ </modify>
+ <modify>
+  <node id="129679704" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794547" lon="-114.2613284"/>
+ </modify>
+ <modify>
+  <node id="129679709" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6794539" lon="-114.2616152"/>
+ </modify>
+ <modify>
+  <node id="129679715" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6793447" lon="-114.2624282"/>
+ </modify>
+ <modify>
+  <node id="129679718" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6789333" lon="-114.2645672"/>
+ </modify>
+ <modify>
+  <node id="129679721" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6787933" lon="-114.2652996"/>
+ </modify>
+ <modify>
+  <node id="129679724" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6785609" lon="-114.2663128"/>
+ </modify>
+ <modify>
+  <node id="129679727" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6783892" lon="-114.2668015"/>
+ </modify>
+ <modify>
+  <node id="129679730" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782471" lon="-114.2671099"/>
+ </modify>
+ <modify>
+  <node id="129679733" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780308" lon="-114.2674749"/>
+ </modify>
+ <modify>
+  <node id="129679735" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6779176" lon="-114.2676489"/>
+ </modify>
+ <modify>
+  <node id="129679752" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6759723" lon="-114.2692606"/>
+ </modify>
+ <modify>
+  <node id="129679772" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6703178" lon="-114.2760479"/>
+ </modify>
+ <modify>
+  <node id="129679791" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6641662" lon="-114.2835145"/>
+ </modify>
+ <delete>
+  <node id="129679794" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="129679797" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6634601" lon="-114.2843869"/>
+ </modify>
+ <modify>
+  <node id="129679802" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6632528" lon="-114.2846360"/>
+ </modify>
+ <modify>
+  <node id="129679805" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6630912" lon="-114.2847875"/>
+ </modify>
+ <modify>
+  <node id="129679807" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6628168" lon="-114.2849058"/>
+ </modify>
+ <modify>
+  <node id="129679809" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6627311" lon="-114.2849098"/>
+ </modify>
+ <modify>
+  <node id="129679811" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6625482" lon="-114.2848625"/>
+ </modify>
+ <modify>
+  <node id="7929819689" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6780285" lon="-114.2508651">
+   <tag k="crossing" v="marked"/>
+   <tag k="crossing:markings" v="yes"/>
+   <tag k="highway" v="crossing"/>
+  </node>
+ </modify>
+ <modify>
+  <way id="13831738" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129458129"/>
+   <nd ref="129458132"/>
+   <nd ref="129458134"/>
+   <nd ref="129458137"/>
+   <nd ref="129458140"/>
+   <nd ref="129458143"/>
+   <nd ref="129458144"/>
+   <nd ref="129458146"/>
+   <nd ref="129458150"/>
+   <nd ref="129458153"/>
+   <nd ref="129458156"/>
+   <nd ref="129458159"/>
+   <nd ref="129458161"/>
+   <nd ref="129458164"/>
+   <nd ref="129458167"/>
+   <nd ref="129458169"/>
+   <nd ref="129458171"/>
+   <nd ref="129458173"/>
+   <nd ref="129458176"/>
+   <nd ref="129458179"/>
+   <nd ref="129458181"/>
+   <nd ref="129458184"/>
+   <nd ref="129458187"/>
+   <nd ref="129458189"/>
+   <nd ref="129458191"/>
+   <nd ref="129458194"/>
+   <nd ref="129458196"/>
+   <nd ref="129458198"/>
+   <nd ref="129458201"/>
+   <nd ref="129458204"/>
+   <nd ref="129458207"/>
+   <nd ref="129458210"/>
+   <nd ref="129458213"/>
+   <nd ref="129458215"/>
+   <nd ref="129458217"/>
+   <nd ref="129458219"/>
+   <nd ref="129458222"/>
+   <nd ref="129458223"/>
+   <nd ref="129458225"/>
+   <nd ref="129458228"/>
+   <nd ref="129458231"/>
+   <nd ref="129458234"/>
+   <nd ref="129458236"/>
+   <nd ref="129458239"/>
+   <nd ref="129458242"/>
+   <nd ref="129458245"/>
+   <nd ref="129458249"/>
+   <nd ref="129458252"/>
+   <nd ref="129458254"/>
+   <nd ref="129458257"/>
+   <nd ref="129458260"/>
+   <nd ref="129458263"/>
+   <nd ref="129458266"/>
+   <nd ref="129458268"/>
+   <nd ref="129458269"/>
+   <nd ref="129458271"/>
+   <nd ref="129458273"/>
+   <nd ref="129458276"/>
+   <nd ref="129458279"/>
+   <nd ref="129458281"/>
+   <nd ref="129458283"/>
+   <nd ref="129458285"/>
+   <nd ref="129458290"/>
+   <nd ref="129458293"/>
+   <nd ref="129458296"/>
+   <nd ref="129458299"/>
+   <nd ref="129458303"/>
+   <nd ref="129458306"/>
+   <nd ref="129458309"/>
+   <nd ref="129458312"/>
+   <nd ref="129458314"/>
+   <nd ref="129458317"/>
+   <nd ref="129458320"/>
+   <nd ref="129458323"/>
+   <nd ref="129458326"/>
+   <nd ref="129458328"/>
+   <nd ref="129458332"/>
+   <nd ref="129458335"/>
+   <nd ref="129458339"/>
+   <nd ref="129458342"/>
+   <nd ref="129458345"/>
+   <nd ref="129458348"/>
+   <nd ref="129458351"/>
+   <nd ref="129458353"/>
+   <nd ref="129458355"/>
+   <nd ref="129458358"/>
+   <nd ref="129458360"/>
+   <nd ref="129458362"/>
+   <nd ref="129458364"/>
+   <nd ref="129458366"/>
+   <nd ref="129458368"/>
+   <nd ref="129458374"/>
+   <nd ref="129458377"/>
+   <nd ref="129458380"/>
+   <nd ref="129458385"/>
+   <nd ref="129458389"/>
+   <nd ref="129458391"/>
+   <nd ref="129458393"/>
+   <nd ref="129458395"/>
+   <nd ref="129458400"/>
+   <nd ref="129458402"/>
+   <nd ref="129458406"/>
+   <nd ref="129458409"/>
+   <nd ref="129458411"/>
+   <nd ref="129458414"/>
+   <nd ref="129458418"/>
+   <nd ref="129458422"/>
+   <nd ref="129458425"/>
+   <nd ref="129458428"/>
+   <nd ref="129458431"/>
+   <nd ref="129458433"/>
+   <nd ref="129458436"/>
+   <nd ref="129458438"/>
+   <nd ref="129458440"/>
+   <nd ref="129458442"/>
+   <nd ref="129458444"/>
+   <nd ref="129458447"/>
+   <nd ref="129458450"/>
+   <nd ref="129458452"/>
+   <nd ref="129458455"/>
+   <nd ref="129458459"/>
+   <nd ref="129458462"/>
+   <nd ref="129458465"/>
+   <nd ref="129458466"/>
+   <nd ref="129458468"/>
+   <nd ref="129458470"/>
+   <nd ref="129458473"/>
+   <nd ref="129458476"/>
+   <nd ref="129458479"/>
+   <nd ref="129458482"/>
+   <nd ref="129458485"/>
+   <nd ref="129458489"/>
+   <nd ref="129458492"/>
+   <nd ref="129458493"/>
+   <nd ref="129458496"/>
+   <nd ref="129458498"/>
+   <nd ref="129458500"/>
+   <nd ref="129458503"/>
+   <nd ref="129458505"/>
+   <nd ref="129458509"/>
+   <nd ref="129458511"/>
+   <nd ref="129458513"/>
+   <nd ref="129458516"/>
+   <nd ref="129458518"/>
+   <nd ref="129458519"/>
+   <nd ref="129458520"/>
+   <nd ref="129458521"/>
+   <nd ref="129458523"/>
+   <nd ref="129448222"/>
+   <nd ref="129458526"/>
+   <nd ref="129458530"/>
+   <nd ref="129458532"/>
+   <nd ref="129458533"/>
+   <nd ref="129458536"/>
+   <nd ref="129458539"/>
+   <nd ref="129458541"/>
+   <nd ref="129458544"/>
+   <nd ref="129458547"/>
+   <nd ref="129458548"/>
+   <nd ref="129458550"/>
+   <nd ref="129458553"/>
+   <nd ref="129458556"/>
+   <nd ref="129458558"/>
+   <nd ref="129458559"/>
+   <nd ref="129458560"/>
+   <nd ref="129458562"/>
+   <nd ref="129458564"/>
+   <nd ref="129409964"/>
+   <nd ref="129458565"/>
+   <nd ref="129458567"/>
+   <nd ref="129458569"/>
+   <nd ref="129458572"/>
+   <nd ref="129458574"/>
+   <nd ref="129458578"/>
+   <nd ref="129458581"/>
+   <nd ref="129458584"/>
+   <nd ref="129458587"/>
+   <nd ref="129458589"/>
+   <nd ref="129458591"/>
+   <nd ref="12067481048"/>
+   <nd ref="129458594"/>
+   <tag k="highway" v="track"/>
+   <tag k="tiger:cfcc" v="A41"/>
+   <tag k="tiger:county" v="Jerome, ID"/>
+   <tag k="tiger:reviewed" v="no"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="13832291" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129470343"/>
+   <nd ref="129470346"/>
+   <nd ref="129470349"/>
+   <nd ref="129470352"/>
+   <nd ref="129470354"/>
+   <nd ref="129470357"/>
+   <nd ref="129470360"/>
+   <nd ref="129470364"/>
+   <nd ref="129470367"/>
+   <nd ref="129470371"/>
+   <nd ref="129470376"/>
+   <nd ref="129470378"/>
+   <nd ref="129470381"/>
+   <nd ref="129470384"/>
+   <nd ref="129470388"/>
+   <nd ref="129470391"/>
+   <nd ref="129470394"/>
+   <nd ref="129470397"/>
+   <nd ref="129470403"/>
+   <nd ref="129470410"/>
+   <nd ref="129470412"/>
+   <nd ref="129470414"/>
+   <nd ref="129470418"/>
+   <nd ref="129470420"/>
+   <nd ref="129470423"/>
+   <nd ref="129470425"/>
+   <nd ref="129470429"/>
+   <nd ref="129470432"/>
+   <nd ref="129470436"/>
+   <nd ref="129470438"/>
+   <nd ref="129470441"/>
+   <nd ref="129470445"/>
+   <nd ref="129470447"/>
+   <nd ref="129470450"/>
+   <nd ref="129470454"/>
+   <nd ref="129470456"/>
+   <nd ref="129470458"/>
+   <nd ref="129470460"/>
+   <nd ref="129470462"/>
+   <nd ref="129470464"/>
+   <nd ref="129470467"/>
+   <nd ref="129470470"/>
+   <nd ref="129470473"/>
+   <nd ref="129470476"/>
+   <nd ref="129470479"/>
+   <nd ref="129470482"/>
+   <nd ref="129470485"/>
+   <nd ref="129470488"/>
+   <nd ref="129470493"/>
+   <nd ref="129470499"/>
+   <nd ref="129470501"/>
+   <nd ref="129470504"/>
+   <nd ref="129470506"/>
+   <nd ref="129470509"/>
+   <nd ref="129470512"/>
+   <nd ref="129470516"/>
+   <nd ref="129470519"/>
+   <nd ref="129470522"/>
+   <nd ref="129470525"/>
+   <nd ref="129470528"/>
+   <nd ref="129470533"/>
+   <nd ref="129470535"/>
+   <nd ref="129470539"/>
+   <nd ref="129470542"/>
+   <nd ref="129470544"/>
+   <nd ref="129470547"/>
+   <nd ref="129470550"/>
+   <nd ref="129470552"/>
+   <nd ref="129470554"/>
+   <nd ref="129470558"/>
+   <nd ref="129470560"/>
+   <nd ref="129470562"/>
+   <nd ref="129470563"/>
+   <nd ref="129470565"/>
+   <nd ref="129470567"/>
+   <nd ref="129470569"/>
+   <nd ref="129470571"/>
+   <nd ref="129470574"/>
+   <nd ref="129470576"/>
+   <nd ref="129470578"/>
+   <nd ref="129470579"/>
+   <nd ref="129470582"/>
+   <nd ref="129470584"/>
+   <nd ref="129470586"/>
+   <nd ref="129470588"/>
+   <nd ref="129470590"/>
+   <nd ref="129470593"/>
+   <nd ref="129470595"/>
+   <nd ref="129470597"/>
+   <nd ref="129470599"/>
+   <nd ref="129470601"/>
+   <nd ref="129470603"/>
+   <nd ref="129470605"/>
+   <nd ref="129470607"/>
+   <nd ref="129470609"/>
+   <nd ref="129470611"/>
+   <nd ref="129470614"/>
+   <nd ref="129470616"/>
+   <nd ref="129470618"/>
+   <nd ref="129470620"/>
+   <nd ref="129470622"/>
+   <nd ref="129470625"/>
+   <nd ref="129470628"/>
+   <nd ref="129470631"/>
+   <nd ref="129470634"/>
+   <nd ref="129470637"/>
+   <nd ref="12067452915"/>
+   <nd ref="129470641"/>
+   <nd ref="129470644"/>
+   <tag k="highway" v="track"/>
+   <tag k="tiger:cfcc" v="A41"/>
+   <tag k="tiger:county" v="Jerome, ID"/>
+   <tag k="tiger:reviewed" v="no"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="13838894" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129596634"/>
+   <nd ref="12067481046"/>
+   <nd ref="129596638"/>
+   <nd ref="12067481045"/>
+   <nd ref="129596641"/>
+   <nd ref="12067481044"/>
+   <nd ref="12067481043"/>
+   <nd ref="129596644"/>
+   <nd ref="12067481042"/>
+   <nd ref="129596645"/>
+   <nd ref="12067481041"/>
+   <nd ref="129596649"/>
+   <nd ref="129596652"/>
+   <tag k="highway" v="service"/>
+   <tag k="service" v="driveway"/>
+   <tag k="surface" v="gravel"/>
+  </way>
+ </modify>
+ <delete>
+  <way id="13840558" visible="false" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <way id="1085964024" visible="true" version="3" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129679640"/>
+   <nd ref="12067452923"/>
+   <nd ref="129679643"/>
+   <nd ref="12067452922"/>
+   <nd ref="129679646"/>
+   <nd ref="129637365"/>
+   <nd ref="129679652"/>
+   <nd ref="129679655"/>
+   <nd ref="12067452921"/>
+   <nd ref="129679657"/>
+   <nd ref="12067452920"/>
+   <nd ref="129679660"/>
+   <nd ref="129679662"/>
+   <nd ref="12067452919"/>
+   <nd ref="129679665"/>
+   <nd ref="129679668"/>
+   <nd ref="129679670"/>
+   <nd ref="12067452918"/>
+   <nd ref="12067452917"/>
+   <nd ref="129679673"/>
+   <nd ref="129679676"/>
+   <nd ref="12067452916"/>
+   <nd ref="129470644"/>
+   <nd ref="129679681"/>
+   <nd ref="12067452914"/>
+   <nd ref="129679683"/>
+   <nd ref="129679685"/>
+   <nd ref="129679688"/>
+   <nd ref="129679691"/>
+   <nd ref="12067452913"/>
+   <nd ref="12067452912"/>
+   <nd ref="129679694"/>
+   <nd ref="129679698"/>
+   <nd ref="129679701"/>
+   <nd ref="129679704"/>
+   <nd ref="129679709"/>
+   <nd ref="129679713"/>
+   <nd ref="12067452911"/>
+   <nd ref="129679715"/>
+   <nd ref="129679718"/>
+   <nd ref="129679721"/>
+   <nd ref="12067452910"/>
+   <nd ref="12067452909"/>
+   <nd ref="129679724"/>
+   <nd ref="12067452908"/>
+   <nd ref="129679727"/>
+   <nd ref="12067452907"/>
+   <nd ref="129679730"/>
+   <nd ref="12067452906"/>
+   <nd ref="129679733"/>
+   <nd ref="129679735"/>
+   <nd ref="12067452905"/>
+   <nd ref="129679737"/>
+   <nd ref="12067452904"/>
+   <nd ref="129679739"/>
+   <nd ref="12067452903"/>
+   <nd ref="129679741"/>
+   <nd ref="12067452902"/>
+   <nd ref="129679748"/>
+   <nd ref="12067452901"/>
+   <nd ref="12067452900"/>
+   <nd ref="10573269173"/>
+   <nd ref="129679752"/>
+   <nd ref="12067452899"/>
+   <nd ref="129679756"/>
+   <nd ref="129679762"/>
+   <nd ref="129679765"/>
+   <nd ref="129679768"/>
+   <nd ref="129679770"/>
+   <nd ref="129679772"/>
+   <nd ref="129679774"/>
+   <nd ref="129673757"/>
+   <nd ref="129679779"/>
+   <nd ref="129679782"/>
+   <nd ref="129679785"/>
+   <nd ref="129627201"/>
+   <nd ref="10573269172"/>
+   <nd ref="129679791"/>
+   <nd ref="129664205"/>
+   <nd ref="129679797"/>
+   <nd ref="129679802"/>
+   <nd ref="12067452897"/>
+   <nd ref="129679805"/>
+   <nd ref="129621820"/>
+   <nd ref="12067452896"/>
+   <nd ref="129679807"/>
+   <nd ref="129679809"/>
+   <nd ref="12067452895"/>
+   <nd ref="129679811"/>
+   <nd ref="129679814"/>
+   <nd ref="12067452898"/>
+   <nd ref="129660512"/>
+   <tag k="highway" v="residential"/>
+   <tag k="name" v="Hunt Road"/>
+   <tag k="surface" v="asphalt"/>
+   <tag k="tiger:cfcc" v="A41"/>
+   <tag k="tiger:county" v="Jerome, ID"/>
+   <tag k="tiger:name_base" v="Hunt"/>
+   <tag k="tiger:name_type" v="Rd"/>
+   <tag k="tiger:reviewed" v="no"/>
+  </way>
+ </modify>
+ <modify>
+  <node id="129440475" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6788754" lon="-114.2437318"/>
+ </modify>
+ <modify>
+  <node id="129627201" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6659072" lon="-114.2814078"/>
+ </modify>
+ <modify>
+  <node id="129679613" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6782544" lon="-114.2495436"/>
+ </modify>
+ <modify>
+  <node id="129679652" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6771446" lon="-114.2541472"/>
+ </modify>
+ <modify>
+  <node id="129679655" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6770241" lon="-114.2544599"/>
+ </modify>
+ <modify>
+  <node id="129679660" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768739" lon="-114.2553206"/>
+ </modify>
+ <modify>
+  <node id="129679737" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6777409" lon="-114.2678891"/>
+ </modify>
+ <modify>
+  <node id="129679739" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6775256" lon="-114.2681239"/>
+ </modify>
+ <modify>
+  <node id="129679741" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6773227" lon="-114.2683100"/>
+ </modify>
+ <modify>
+  <node id="129679748" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6768872" lon="-114.2686131"/>
+ </modify>
+ <modify>
+  <node id="129679756" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6755320" lon="-114.2697222"/>
+ </modify>
+ <modify>
+  <node id="129679765" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6737938" lon="-114.2718115"/>
+ </modify>
+ <modify>
+  <node id="129679779" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6684754" lon="-114.2782842"/>
+ </modify>
+ <modify>
+  <node id="129679785" visible="true" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039" lat="42.6673391" lon="-114.2796771"/>
+ </modify>
+ <delete>
+  <node id="129679789" visible="false" version="4" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <way id="13830994" visible="true" version="5" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129440444"/>
+   <nd ref="7929819719"/>
+   <nd ref="129440447"/>
+   <nd ref="129440449"/>
+   <nd ref="129440451"/>
+   <nd ref="12067481168"/>
+   <nd ref="7929819698"/>
+   <nd ref="129440452"/>
+   <nd ref="12067452939"/>
+   <nd ref="12067481134"/>
+   <nd ref="12067452940"/>
+   <nd ref="12067452941"/>
+   <nd ref="129440454"/>
+   <nd ref="129440455"/>
+   <nd ref="129440456"/>
+   <nd ref="129440459"/>
+   <nd ref="129440461"/>
+   <nd ref="129440462"/>
+   <nd ref="129440464"/>
+   <nd ref="129440467"/>
+   <nd ref="12067481059"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="service"/>
+   <tag k="motor_vehicle" v="private"/>
+   <tag k="surface" v="gravel"/>
+  </way>
+ </modify>
+ <delete>
+  <way id="13842210" visible="false" version="6" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <way id="13843922" visible="true" version="8" changeset="154244909" timestamp="2024-07-22T05:32:38Z" user="jake-low" uid="8794039">
+   <nd ref="129670149"/>
+   <nd ref="129679393"/>
+   <nd ref="129679395"/>
+   <nd ref="129679397"/>
+   <nd ref="129414466"/>
+   <nd ref="129679402"/>
+   <nd ref="129679404"/>
+   <nd ref="129679406"/>
+   <nd ref="129679408"/>
+   <nd ref="129679412"/>
+   <nd ref="129679415"/>
+   <nd ref="129679418"/>
+   <nd ref="129414438"/>
+   <nd ref="129679420"/>
+   <nd ref="129587420"/>
+   <nd ref="129679431"/>
+   <nd ref="129679439"/>
+   <nd ref="129679445"/>
+   <nd ref="129679447"/>
+   <nd ref="129679451"/>
+   <nd ref="129679453"/>
+   <nd ref="129679455"/>
+   <nd ref="129587596"/>
+   <nd ref="129450066"/>
+   <nd ref="12067480997"/>
+   <nd ref="129679459"/>
+   <nd ref="129679463"/>
+   <nd ref="129679466"/>
+   <nd ref="129664654"/>
+   <nd ref="129679469"/>
+   <nd ref="129679473"/>
+   <nd ref="129535423"/>
+   <nd ref="129535252"/>
+   <nd ref="129679476"/>
+   <nd ref="129679479"/>
+   <nd ref="129679483"/>
+   <nd ref="129535382"/>
+   <nd ref="129679485"/>
+   <nd ref="129679487"/>
+   <nd ref="129679488"/>
+   <nd ref="12067480996"/>
+   <nd ref="129679491"/>
+   <nd ref="12067480995"/>
+   <nd ref="129679495"/>
+   <nd ref="12067480994"/>
+   <nd ref="129679501"/>
+   <nd ref="129679505"/>
+   <nd ref="129535337"/>
+   <nd ref="129679508"/>
+   <nd ref="129679512"/>
+   <nd ref="12067480993"/>
+   <nd ref="129679515"/>
+   <nd ref="129509474"/>
+   <nd ref="129679519"/>
+   <nd ref="129659090"/>
+   <nd ref="129679521"/>
+   <nd ref="129639323"/>
+   <nd ref="129458236"/>
+   <nd ref="129679529"/>
+   <nd ref="129679530"/>
+   <nd ref="129679533"/>
+   <nd ref="129679536"/>
+   <nd ref="129679539"/>
+   <nd ref="129679541"/>
+   <nd ref="129679544"/>
+   <nd ref="129659191"/>
+   <nd ref="129679547"/>
+   <nd ref="129600818"/>
+   <nd ref="129475533"/>
+   <nd ref="129679550"/>
+   <nd ref="129679553"/>
+   <nd ref="129679556"/>
+   <nd ref="129679559"/>
+   <nd ref="12067480992"/>
+   <nd ref="12067480991"/>
+   <nd ref="129679560"/>
+   <nd ref="129679563"/>
+   <nd ref="129679567"/>
+   <nd ref="129679569"/>
+   <nd ref="12067480990"/>
+   <nd ref="12067480989"/>
+   <nd ref="129679572"/>
+   <nd ref="12067480988"/>
+   <nd ref="129679575"/>
+   <nd ref="129679577"/>
+   <nd ref="129679579"/>
+   <nd ref="129679581"/>
+   <nd ref="129679583"/>
+   <nd ref="12067452942"/>
+   <nd ref="129679587"/>
+   <nd ref="7929819685"/>
+   <nd ref="12067452943"/>
+   <nd ref="129679591"/>
+   <nd ref="12067452944"/>
+   <nd ref="129440478"/>
+   <nd ref="12067452945"/>
+   <nd ref="129679594"/>
+   <nd ref="12067452946"/>
+   <nd ref="12067452947"/>
+   <nd ref="129679598"/>
+   <nd ref="12067452948"/>
+   <nd ref="129679600"/>
+   <nd ref="129679603"/>
+   <nd ref="129679604"/>
+   <nd ref="129679607"/>
+   <nd ref="129679609"/>
+   <nd ref="12067452949"/>
+   <nd ref="129679613"/>
+   <nd ref="129475602"/>
+   <nd ref="12067452928"/>
+   <nd ref="12067452927"/>
+   <nd ref="129679616"/>
+   <nd ref="12067452926"/>
+   <nd ref="7929819689"/>
+   <nd ref="129596652"/>
+   <nd ref="12067452925"/>
+   <nd ref="129679622"/>
+   <nd ref="129679625"/>
+   <nd ref="129679627"/>
+   <nd ref="12067452924"/>
+   <nd ref="129679628"/>
+   <nd ref="129679630"/>
+   <nd ref="129679633"/>
+   <tag k="highway" v="residential"/>
+   <tag k="name" v="Hunt Road"/>
+   <tag k="surface" v="asphalt"/>
+  </way>
+ </modify>
+</osmChange>

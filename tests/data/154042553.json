@@ -1,0 +1,95 @@
+{
+  "version": "0.6",
+  "generator": "openstreetmap-cgimap 2.0.1 (1859 spike-07.openstreetmap.org)",
+  "copyright": "OpenStreetMap and contributors",
+  "attribution": "http://www.openstreetmap.org/copyright",
+  "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+  "modify": [
+    {
+      "id": 3037567034,
+      "visible": true,
+      "version": 2,
+      "changeset": 154042553,
+      "timestamp": "2024-07-17T06:48:24Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 37.5139347,
+      "lon": -112.0020502,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 5752068,
+      "visible": true,
+      "version": 6,
+      "changeset": 154042553,
+      "timestamp": "2024-07-17T06:48:24Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "type": "relation",
+      "tags": {
+        "fee": "yes",
+        "gnis:feature_id": "1455358",
+        "leisure": "nature_reserve",
+        "name": "Kodachrome Basin State Park",
+        "operator": "Utah State Parks",
+        "ownership": "state",
+        "protect_class": "5",
+        "protection_title": "State Park",
+        "type": "multipolygon",
+        "website": "https://stateparks.utah.gov/parks/kodachrome-basin/",
+        "wikidata": "Q129567"
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": 386510789,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 386510788,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 299714205,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 386510791,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 386510792,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 386510794,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 386510793,
+          "role": "outer"
+        }
+      ]
+    }
+  ],
+  "delete": [
+    {
+      "id": 356684800,
+      "visible": false,
+      "version": 3,
+      "changeset": 154042553,
+      "timestamp": "2024-07-17T06:48:24Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "type": "node",
+      "tags": {}
+    }
+  ]
+}

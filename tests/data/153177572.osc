@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="openstreetmap-cgimap 2.0.1 (1875 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <modify>
+  <relation id="11225405" visible="true" version="8" changeset="153177572" timestamp="2024-06-25T22:17:25Z" user="jake-low" uid="8794039">
+   <member type="relation" ref="11225404" role=""/>
+   <member type="relation" ref="11225403" role=""/>
+   <member type="relation" ref="3718820" role=""/>
+   <tag k="colour" v="black;yellow;white"/>
+   <tag k="complete" v="yes"/>
+   <tag k="description" v="1200 mile long trail running from the Continental Divide to Washington's Olympic Coast, passing through many National Parks and Forests along the way."/>
+   <tag k="distance" v="1931"/>
+   <tag k="name" v="Pacific Northwest Trail"/>
+   <tag k="network" v="nwn"/>
+   <tag k="operator" v="Pacific Northwest Trail Association"/>
+   <tag k="osmc:symbol" v="yellow:white_frame:yellow_triangle"/>
+   <tag k="ref" v="PNT"/>
+   <tag k="route" v="hiking"/>
+   <tag k="symbol" v="thunderbird on yellow background with white crest"/>
+   <tag k="type" v="route"/>
+   <tag k="website" v="https://www.pnt.org/"/>
+   <tag k="wikidata" v="Q3360192"/>
+   <tag k="wikipedia" v="en:Pacific Northwest Trail"/>
+  </relation>
+ </modify>
+ <modify>
+  <relation id="11225404" visible="true" version="23" changeset="153177572" timestamp="2024-06-25T22:17:25Z" user="jake-low" uid="8794039">
+   <member type="way" ref="82583153" role=""/>
+   <member type="way" ref="550727805" role=""/>
+   <member type="way" ref="1082356348" role=""/>
+   <member type="way" ref="1082356349" role=""/>
+   <member type="way" ref="1082356350" role=""/>
+   <member type="way" ref="1082356351" role=""/>
+   <member type="way" ref="1082356352" role=""/>
+   <member type="way" ref="1082356353" role=""/>
+   <member type="way" ref="550727791" role=""/>
+   <member type="way" ref="1082356355" role=""/>
+   <member type="way" ref="1082356354" role=""/>
+   <member type="way" ref="1082356357" role=""/>
+   <member type="way" ref="1082356356" role=""/>
+   <member type="way" ref="1082356360" role=""/>
+   <member type="way" ref="1082356361" role=""/>
+   <member type="way" ref="82584005" role=""/>
+   <member type="way" ref="1082356366" role=""/>
+   <member type="way" ref="1082356367" role=""/>
+   <member type="way" ref="1082356368" role=""/>
+   <member type="way" ref="1082356369" role=""/>
+   <member type="way" ref="82584192" role=""/>
+   <member type="way" ref="818255263" role=""/>
+   <member type="way" ref="818255262" role=""/>
+   <member type="way" ref="818255261" role=""/>
+   <member type="way" ref="82583885" role=""/>
+   <member type="way" ref="82483522" role=""/>
+   <member type="way" ref="82483492" role=""/>
+   <member type="way" ref="818255259" role=""/>
+   <member type="way" ref="818255260" role=""/>
+   <member type="way" ref="1216835692" role=""/>
+   <member type="way" ref="1216835693" role=""/>
+   <member type="way" ref="1216835694" role=""/>
+   <member type="way" ref="1216835695" role=""/>
+   <member type="way" ref="1216835696" role=""/>
+   <member type="way" ref="1216835697" role=""/>
+   <member type="way" ref="1216835698" role=""/>
+   <member type="way" ref="1216835699" role=""/>
+   <member type="way" ref="1216835700" role=""/>
+   <member type="way" ref="1216835701" role=""/>
+   <member type="way" ref="1216835702" role=""/>
+   <member type="way" ref="1216835703" role=""/>
+   <member type="way" ref="1216835704" role=""/>
+   <member type="way" ref="1216835705" role=""/>
+   <member type="way" ref="1216835706" role=""/>
+   <member type="way" ref="1216835707" role=""/>
+   <member type="way" ref="1216835708" role=""/>
+   <member type="way" ref="1216835709" role=""/>
+   <member type="way" ref="82483451" role=""/>
+   <member type="way" ref="1216835711" role=""/>
+   <member type="way" ref="1216835710" role=""/>
+   <member type="way" ref="1208176714" role=""/>
+   <member type="way" ref="1208176713" role=""/>
+   <member type="way" ref="818255257" role=""/>
+   <member type="way" ref="82483472" role=""/>
+   <member type="way" ref="82483421" role=""/>
+   <member type="way" ref="5721279" role=""/>
+   <member type="way" ref="5726710" role=""/>
+   <member type="way" ref="818255256" role=""/>
+   <member type="way" ref="1025919029" role=""/>
+   <member type="way" ref="898590553" role=""/>
+   <member type="way" ref="898590552" role=""/>
+   <member type="way" ref="5722381" role=""/>
+   <member type="way" ref="5726464" role=""/>
+   <member type="way" ref="1056655929" role=""/>
+   <member type="way" ref="5722388" role=""/>
+   <member type="way" ref="5540556" role=""/>
+   <member type="way" ref="1215823149" role=""/>
+   <member type="way" ref="818255251" role=""/>
+   <member type="way" ref="268314616" role=""/>
+   <member type="way" ref="5537756" role=""/>
+   <member type="way" ref="818255249" role=""/>
+   <member type="way" ref="1215800405" role=""/>
+   <member type="way" ref="5756068" role=""/>
+   <member type="way" ref="202019819" role=""/>
+   <member type="way" ref="202019818" role=""/>
+   <member type="way" ref="190661626" role=""/>
+   <member type="way" ref="818255245" role=""/>
+   <member type="way" ref="190661630" role=""/>
+   <member type="way" ref="190661633" role=""/>
+   <member type="way" ref="5754788" role=""/>
+   <member type="way" ref="818255244" role=""/>
+   <member type="way" ref="818255243" role=""/>
+   <member type="way" ref="818255241" role=""/>
+   <member type="way" ref="818255239" role=""/>
+   <member type="way" ref="818255237" role=""/>
+   <member type="way" ref="818255236" role=""/>
+   <member type="way" ref="5758145" role=""/>
+   <member type="way" ref="187899901" role=""/>
+   <member type="way" ref="5758151" role=""/>
+   <member type="way" ref="5758261" role=""/>
+   <member type="way" ref="818255234" role=""/>
+   <member type="way" ref="1250046987" role=""/>
+   <member type="way" ref="5758940" role=""/>
+   <member type="way" ref="52825170" role=""/>
+   <member type="way" ref="255948200" role=""/>
+   <member type="way" ref="93926025" role=""/>
+   <member type="way" ref="93926019" role=""/>
+   <member type="way" ref="818255233" role=""/>
+   <member type="way" ref="886775950" role=""/>
+   <member type="way" ref="1077837368" role=""/>
+   <member type="way" ref="1077837369" role=""/>
+   <member type="way" ref="913956505" role=""/>
+   <member type="way" ref="1198062166" role=""/>
+   <member type="way" ref="818255228" role=""/>
+   <member type="way" ref="818255227" role=""/>
+   <member type="way" ref="186440808" role=""/>
+   <member type="way" ref="5751457" role=""/>
+   <member type="way" ref="818255225" role=""/>
+   <member type="way" ref="5747103" role=""/>
+   <member type="way" ref="818255223" role=""/>
+   <member type="way" ref="5747095" role=""/>
+   <member type="way" ref="818255221" role=""/>
+   <member type="way" ref="186383630" role=""/>
+   <member type="way" ref="818255220" role=""/>
+   <member type="way" ref="91584071" role=""/>
+   <member type="way" ref="908555041" role=""/>
+   <member type="way" ref="908555042" role=""/>
+   <member type="way" ref="908555040" role=""/>
+   <member type="way" ref="91584114" role=""/>
+   <member type="way" ref="997577908" role=""/>
+   <member type="way" ref="91494272" role=""/>
+   <member type="way" ref="91494282" role=""/>
+   <member type="way" ref="818255216" role=""/>
+   <member type="way" ref="818255215" role=""/>
+   <member type="way" ref="5758698" role=""/>
+   <member type="way" ref="818255213" role=""/>
+   <member type="way" ref="226014719" role=""/>
+   <member type="way" ref="5757091" role=""/>
+   <member type="way" ref="818255211" role=""/>
+   <member type="way" ref="818255210" role=""/>
+   <member type="way" ref="225779119" role=""/>
+   <member type="way" ref="818255208" role=""/>
+   <member type="way" ref="177395765" role=""/>
+   <member type="way" ref="5754883" role=""/>
+   <member type="way" ref="5755313" role=""/>
+   <member type="way" ref="5750126" role=""/>
+   <member type="way" ref="177262606" role=""/>
+   <member type="way" ref="5758314" role=""/>
+   <member type="way" ref="177395759" role=""/>
+   <member type="way" ref="177395762" role=""/>
+   <member type="way" ref="227918091" role=""/>
+   <member type="way" ref="5756802" role=""/>
+   <member type="way" ref="818255206" role=""/>
+   <member type="way" ref="5754180" role=""/>
+   <member type="way" ref="5755873" role=""/>
+   <member type="way" ref="818255202" role=""/>
+   <member type="way" ref="818255199" role=""/>
+   <member type="way" ref="818255201" role=""/>
+   <member type="way" ref="1198062169" role=""/>
+   <member type="way" ref="913956536" role=""/>
+   <member type="way" ref="1198062167" role=""/>
+   <member type="way" ref="1198062170" role=""/>
+   <member type="way" ref="1198062171" role=""/>
+   <member type="way" ref="1198062172" role=""/>
+   <member type="way" ref="1198062173" role=""/>
+   <member type="way" ref="940430699" role=""/>
+   <member type="way" ref="913956519" role=""/>
+   <member type="way" ref="913956515" role=""/>
+   <member type="way" ref="915358623" role=""/>
+   <member type="way" ref="913956514" role=""/>
+   <tag k="colour" v="black;yellow;white"/>
+   <tag k="complete" v="yes"/>
+   <tag k="description" v="1200 mile long trail running from the Continental Divide to Washington's Olympic Coast, passing through many National Parks and Forests along the way."/>
+   <tag k="name" v="Pacific Northwest Trail 01 Montana"/>
+   <tag k="network" v="nwn"/>
+   <tag k="operator" v="Pacific Northwest Trail Association"/>
+   <tag k="osmc:symbol" v="yellow:white_frame:yellow_triangle"/>
+   <tag k="ref" v="PNT"/>
+   <tag k="route" v="hiking"/>
+   <tag k="symbol" v="thunderbird on yellow background with white crest"/>
+   <tag k="type" v="route"/>
+   <tag k="website" v="https://www.pnt.org/"/>
+   <tag k="wikidata" v="Q3360192"/>
+   <tag k="wikipedia" v="en:Pacific Northwest Trail"/>
+  </relation>
+ </modify>
+</osmChange>

@@ -1,0 +1,158 @@
+{
+  "version": "0.6",
+  "generator": "openstreetmap-cgimap 2.0.1 (1863 spike-07.openstreetmap.org)",
+  "copyright": "OpenStreetMap and contributors",
+  "attribution": "http://www.openstreetmap.org/copyright",
+  "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+  "create": [
+    {
+      "id": 12119016595,
+      "visible": true,
+      "version": 1,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1492375,
+      "lon": -121.7480726,
+      "type": "node",
+      "tags": {}
+    }
+  ],
+  "modify": [
+    {
+      "id": 7213766203,
+      "visible": true,
+      "version": 2,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.149479,
+      "lon": -121.747962,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 7213766204,
+      "visible": true,
+      "version": 2,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1495887,
+      "lon": -121.7479488,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 7213766205,
+      "visible": true,
+      "version": 2,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1496845,
+      "lon": -121.7479539,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 7213766241,
+      "visible": true,
+      "version": 2,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1491593,
+      "lon": -121.748133,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 5500147559,
+      "visible": true,
+      "version": 3,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1493317,
+      "lon": -121.7480156,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 572505899,
+      "visible": true,
+      "version": 4,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "type": "way",
+      "tags": {
+        "alt_name": "Tupso Pass Road",
+        "bridge": "yes",
+        "highway": "track",
+        "layer": "1",
+        "motor_vehicle": "no",
+        "name": "Forest Road 41",
+        "ref": "FS 41",
+        "surface": "unpaved"
+      },
+      "nodes": [
+        50776780,
+        7213766241,
+        12119016595,
+        5500147559,
+        50776782
+      ]
+    },
+    {
+      "id": 50776782,
+      "visible": true,
+      "version": 5,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1494115,
+      "lon": -121.747978,
+      "type": "node",
+      "tags": {}
+    },
+    {
+      "id": 50776780,
+      "visible": true,
+      "version": 7,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "lat": 48.1490751,
+      "lon": -121.7482036,
+      "type": "node",
+      "tags": {
+        "barrier": "block",
+        "motor_vehicle": "no"
+      }
+    }
+  ],
+  "delete": [
+    {
+      "id": 7213766242,
+      "visible": false,
+      "version": 2,
+      "changeset": 155433568,
+      "timestamp": "2024-08-18T20:35:43Z",
+      "user": "jake-low",
+      "uid": 8794039,
+      "type": "node",
+      "tags": {}
+    }
+  ]
+}

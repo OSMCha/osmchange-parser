@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="openstreetmap-cgimap 2.0.1 (1856 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <create>
+  <node id="12107517636" visible="true" version="1" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039" lat="37.6048320" lon="-112.1575043"/>
+ </create>
+ <create>
+  <way id="1307403058" visible="true" version="1" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="10681965030"/>
+   <nd ref="10681965029"/>
+   <nd ref="10681965028"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="surface" v="paved"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </create>
+ <create>
+  <way id="1307403059" visible="true" version="1" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="10681965028"/>
+   <nd ref="10681965027"/>
+   <nd ref="10681965026"/>
+   <nd ref="10681965025"/>
+   <nd ref="10681965024"/>
+   <nd ref="10681965023"/>
+   <nd ref="10681965022"/>
+   <nd ref="10681965021"/>
+   <nd ref="10681965020"/>
+   <nd ref="10681965019"/>
+   <nd ref="10681965018"/>
+   <nd ref="10681965017"/>
+   <nd ref="10681965016"/>
+   <nd ref="10681965015"/>
+   <nd ref="10681965014"/>
+   <nd ref="10681965060"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="incline" v="up"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="surface" v="paved"/>
+  </way>
+ </create>
+ <create>
+  <way id="1307403060" visible="true" version="1" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="1270767738"/>
+   <nd ref="12107517636"/>
+   <nd ref="1024451669"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="note" v="This section of the Rim Trail is closed in winter due to snow cornice hazzard."/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="surface" v="paved"/>
+   <tag k="width" v="1.5"/>
+  </way>
+ </create>
+ <modify>
+  <node id="10681965028" visible="true" version="2" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039" lat="37.6054574" lon="-112.1574731"/>
+ </modify>
+ <modify>
+  <node id="10681965030" visible="true" version="2" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039" lat="37.6057765" lon="-112.1574137">
+   <tag k="direction" v="235-135"/>
+   <tag k="name" v="Bryce Point"/>
+   <tag k="tourism" v="viewpoint"/>
+   <tag k="wheelchair" v="yes"/>
+  </node>
+ </modify>
+ <delete>
+  <node id="10681965031" visible="false" version="2" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <relation id="15514043" visible="true" version="2" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <member type="way" ref="1148077750" role="outer"/>
+   <member type="way" ref="1148077749" role="outer"/>
+   <tag k="access" v="customers"/>
+   <tag k="amenity" v="parking"/>
+   <tag k="capacity" v="50"/>
+   <tag k="capacity:disabled" v="2"/>
+   <tag k="ele" v="2533"/>
+   <tag k="fee" v="no"/>
+   <tag k="name" v="Bryce Point parking"/>
+   <tag k="parking" v="surface"/>
+   <tag k="type" v="multipolygon"/>
+  </relation>
+ </modify>
+ <modify>
+  <way id="1148077754" visible="true" version="3" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="10681965028"/>
+   <nd ref="10681965032"/>
+   <nd ref="10681965033"/>
+   <nd ref="10681965034"/>
+   <nd ref="10681965035"/>
+   <nd ref="10681965036"/>
+   <nd ref="10681965037"/>
+   <nd ref="10681965038"/>
+   <nd ref="10681965039"/>
+   <nd ref="10681965040"/>
+   <nd ref="10681965041"/>
+   <nd ref="10681965042"/>
+   <nd ref="10681965043"/>
+   <nd ref="10681965044"/>
+   <nd ref="10681965045"/>
+   <nd ref="10681965046"/>
+   <nd ref="10681965047"/>
+   <nd ref="10681965048"/>
+   <nd ref="10681965049"/>
+   <nd ref="10681965050"/>
+   <nd ref="10681965051"/>
+   <nd ref="10681965052"/>
+   <nd ref="10681965053"/>
+   <nd ref="10681965054"/>
+   <nd ref="10681965055"/>
+   <nd ref="10681965056"/>
+   <nd ref="10681965057"/>
+   <nd ref="10681965058"/>
+   <nd ref="10681965059"/>
+   <nd ref="10681965060"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="incline" v="up"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="surface" v="paved"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </modify>
+ <modify>
+  <node id="1270767738" visible="true" version="5" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039" lat="37.6047463" lon="-112.1575192"/>
+ </modify>
+ <modify>
+  <way id="909360572" visible="true" version="7" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="1024451669"/>
+   <nd ref="6101584616"/>
+   <nd ref="1024451672"/>
+   <nd ref="1270767743"/>
+   <nd ref="4804789425"/>
+   <nd ref="298036037"/>
+   <nd ref="83096944"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="surface" v="paved"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="650406543" visible="true" version="8" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="895815923"/>
+   <nd ref="1874550593"/>
+   <nd ref="4827566330"/>
+   <nd ref="4827566331"/>
+   <nd ref="4827566329"/>
+   <nd ref="1874550592"/>
+   <nd ref="1874550591"/>
+   <nd ref="4827566328"/>
+   <nd ref="1874550590"/>
+   <nd ref="4827566327"/>
+   <nd ref="4827566326"/>
+   <nd ref="1874550589"/>
+   <nd ref="1874550588"/>
+   <nd ref="1874550587"/>
+   <nd ref="1874550586"/>
+   <nd ref="1874550585"/>
+   <nd ref="1874550584"/>
+   <nd ref="4827566323"/>
+   <nd ref="1874550582"/>
+   <nd ref="1874550583"/>
+   <nd ref="1874550580"/>
+   <nd ref="1874550579"/>
+   <nd ref="4827565619"/>
+   <nd ref="4827565618"/>
+   <nd ref="1874550577"/>
+   <nd ref="1874550575"/>
+   <nd ref="1874550573"/>
+   <nd ref="1874550572"/>
+   <nd ref="1874550570"/>
+   <nd ref="1874550569"/>
+   <nd ref="1874550568"/>
+   <nd ref="4827565615"/>
+   <nd ref="1874550567"/>
+   <nd ref="4827565614"/>
+   <nd ref="1874550566"/>
+   <nd ref="4827565613"/>
+   <nd ref="4827565612"/>
+   <nd ref="1874550564"/>
+   <nd ref="1874550565"/>
+   <nd ref="1874550563"/>
+   <nd ref="4827565607"/>
+   <nd ref="1874550562"/>
+   <nd ref="1981673172"/>
+   <nd ref="4827565606"/>
+   <nd ref="1874550561"/>
+   <nd ref="1874550560"/>
+   <nd ref="1874550559"/>
+   <nd ref="1981673171"/>
+   <nd ref="1874550558"/>
+   <nd ref="1874550557"/>
+   <nd ref="1874550556"/>
+   <nd ref="1874550555"/>
+   <nd ref="8443289011"/>
+   <nd ref="1981673142"/>
+   <nd ref="1874550554"/>
+   <nd ref="1874550553"/>
+   <nd ref="6101588338"/>
+   <nd ref="1874550552"/>
+   <nd ref="1874550551"/>
+   <nd ref="8443289012"/>
+   <nd ref="1874550550"/>
+   <nd ref="4827565605"/>
+   <nd ref="1874550549"/>
+   <nd ref="1981673176"/>
+   <nd ref="1874550545"/>
+   <nd ref="1874550543"/>
+   <nd ref="1874550541"/>
+   <nd ref="1874550542"/>
+   <nd ref="1874550540"/>
+   <nd ref="1874550539"/>
+   <nd ref="1874550537"/>
+   <nd ref="1874550538"/>
+   <nd ref="1874550546"/>
+   <nd ref="1874550548"/>
+   <nd ref="1874550547"/>
+   <nd ref="1874550544"/>
+   <nd ref="1874550536"/>
+   <nd ref="1874550535"/>
+   <nd ref="1874550534"/>
+   <nd ref="1874550533"/>
+   <nd ref="1874550532"/>
+   <nd ref="1874550530"/>
+   <nd ref="1874550529"/>
+   <nd ref="1874550528"/>
+   <nd ref="1874550527"/>
+   <nd ref="1874550526"/>
+   <nd ref="1874550525"/>
+   <nd ref="1874550524"/>
+   <nd ref="1874550523"/>
+   <nd ref="1874550522"/>
+   <nd ref="1981673177"/>
+   <nd ref="8443289013"/>
+   <nd ref="1874550521"/>
+   <nd ref="8443289014"/>
+   <nd ref="1874550514"/>
+   <nd ref="1874550515"/>
+   <nd ref="1981673169"/>
+   <nd ref="1874550520"/>
+   <nd ref="1874550519"/>
+   <nd ref="1874550518"/>
+   <nd ref="1874550517"/>
+   <nd ref="1874550516"/>
+   <nd ref="8443289015"/>
+   <nd ref="1874550513"/>
+   <nd ref="8443289016"/>
+   <nd ref="1874550512"/>
+   <nd ref="1874550511"/>
+   <nd ref="1874550510"/>
+   <nd ref="8443325717"/>
+   <nd ref="1874550509"/>
+   <nd ref="1874550506"/>
+   <nd ref="4827565602"/>
+   <nd ref="1874550507"/>
+   <nd ref="1874550505"/>
+   <nd ref="1874550504"/>
+   <nd ref="8443325718"/>
+   <nd ref="1874550503"/>
+   <nd ref="1874550502"/>
+   <nd ref="1874550501"/>
+   <nd ref="4827565601"/>
+   <nd ref="1874550500"/>
+   <nd ref="1981673173"/>
+   <nd ref="4827565600"/>
+   <nd ref="1874550498"/>
+   <nd ref="1874550495"/>
+   <nd ref="4827565599"/>
+   <nd ref="1874550492"/>
+   <nd ref="1874550493"/>
+   <nd ref="1874550489"/>
+   <nd ref="4827565598"/>
+   <nd ref="1874550482"/>
+   <nd ref="4827565597"/>
+   <nd ref="4827565596"/>
+   <nd ref="4827565595"/>
+   <nd ref="4827565594"/>
+   <nd ref="1874550480"/>
+   <nd ref="1874550483"/>
+   <nd ref="4827565593"/>
+   <nd ref="4827565592"/>
+   <nd ref="1874550487"/>
+   <nd ref="1874550484"/>
+   <nd ref="1874550486"/>
+   <nd ref="1874550485"/>
+   <nd ref="1874550488"/>
+   <nd ref="1874550491"/>
+   <nd ref="1874550494"/>
+   <nd ref="1270767765"/>
+   <nd ref="1270767756"/>
+   <nd ref="8443325719"/>
+   <nd ref="1270767737"/>
+   <nd ref="1270767685"/>
+   <nd ref="8443325720"/>
+   <nd ref="1981673166"/>
+   <nd ref="1981673179"/>
+   <nd ref="1981673175"/>
+   <nd ref="4827565590"/>
+   <nd ref="1270767784"/>
+   <nd ref="1270767704"/>
+   <nd ref="8443325721"/>
+   <nd ref="1270767692"/>
+   <nd ref="8443325722"/>
+   <nd ref="1270767672"/>
+   <nd ref="1270767793"/>
+   <nd ref="4827565588"/>
+   <nd ref="4827565587"/>
+   <nd ref="1270767738"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="note" v="This section of the Rim Trail is closed in winter due to snow cornice hazzard."/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="width" v="1.5"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="75898856" visible="true" version="9" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <nd ref="10681965060"/>
+   <nd ref="10681965013"/>
+   <nd ref="10681965012"/>
+   <nd ref="10681965011"/>
+   <nd ref="10681965010"/>
+   <nd ref="10681965009"/>
+   <nd ref="10681965008"/>
+   <nd ref="10681965007"/>
+   <nd ref="10681965006"/>
+   <nd ref="895819457"/>
+   <nd ref="1024451669"/>
+   <tag k="access" v="yes"/>
+   <tag k="bicycle" v="no"/>
+   <tag k="foot" v="designated"/>
+   <tag k="highway" v="path"/>
+   <tag k="horse" v="no"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="operator" v="National Park Service"/>
+   <tag k="sac_scale" v="hiking"/>
+   <tag k="surface" v="paved"/>
+   <tag k="wheelchair" v="yes"/>
+  </way>
+ </modify>
+ <modify>
+  <relation id="12464632" visible="true" version="9" changeset="155176527" timestamp="2024-08-13T04:57:46Z" user="jake-low" uid="8794039">
+   <member type="way" ref="650406544" role=""/>
+   <member type="way" ref="1227241496" role=""/>
+   <member type="way" ref="1231252608" role=""/>
+   <member type="way" ref="1227241493" role=""/>
+   <member type="way" ref="650406541" role=""/>
+   <member type="way" ref="1231252712" role=""/>
+   <member type="way" ref="1147814165" role=""/>
+   <member type="way" ref="650406543" role=""/>
+   <member type="way" ref="1307403060" role=""/>
+   <tag k="name" v="Rim Trail"/>
+   <tag k="network" v="lwn"/>
+   <tag k="route" v="hiking"/>
+   <tag k="type" v="route"/>
+  </relation>
+ </modify>
+</osmChange>

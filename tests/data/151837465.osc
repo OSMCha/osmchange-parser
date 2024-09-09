@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="openstreetmap-cgimap 2.0.1 (1861 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <create>
+  <node id="11934356899" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7278157" lon="-121.0534841">
+   <tag k="amenity" v="bench"/>
+  </node>
+ </create>
+ <create>
+  <node id="11934356900" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7278033" lon="-121.0533741">
+   <tag k="amenity" v="bench"/>
+  </node>
+ </create>
+ <create>
+  <node id="11934356901" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283429" lon="-121.0553402">
+   <tag k="amenity" v="bench"/>
+  </node>
+ </create>
+ <create>
+  <node id="11934356902" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7278847" lon="-121.0538730"/>
+ </create>
+ <create>
+  <node id="11934356903" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279448" lon="-121.0539883"/>
+ </create>
+ <create>
+  <node id="11934356904" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7280032" lon="-121.0541278"/>
+ </create>
+ <create>
+  <node id="11934356905" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7280192" lon="-121.0542646"/>
+ </create>
+ <create>
+  <node id="11934356906" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279944" lon="-121.0543880"/>
+ </create>
+ <create>
+  <node id="11934356907" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279643" lon="-121.0545194"/>
+ </create>
+ <create>
+  <node id="11934356908" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279572" lon="-121.0547313"/>
+ </create>
+ <create>
+  <node id="11934356909" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279555" lon="-121.0549673"/>
+ </create>
+ <create>
+  <node id="11934356910" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279395" lon="-121.0552382"/>
+ </create>
+ <create>
+  <node id="11934356911" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279130" lon="-121.0554609"/>
+ </create>
+ <create>
+  <node id="11934356912" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279236" lon="-121.0555682"/>
+ </create>
+ <create>
+  <node id="11934356913" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279625" lon="-121.0556299"/>
+ </create>
+ <create>
+  <node id="11934356914" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279962" lon="-121.0556540"/>
+ </create>
+ <create>
+  <node id="11934356915" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7280368" lon="-121.0556486"/>
+ </create>
+ <create>
+  <node id="11934356916" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7280917" lon="-121.0556003"/>
+ </create>
+ <create>
+  <node id="11934356917" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7277732" lon="-121.0534975"/>
+ </create>
+ <create>
+  <node id="11934356918" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279236" lon="-121.0535109"/>
+ </create>
+ <create>
+  <node id="11934356919" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7279997" lon="-121.0535780"/>
+ </create>
+ <create>
+  <node id="11934356920" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7280634" lon="-121.0536960"/>
+ </create>
+ <create>
+  <node id="11934356921" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7281289" lon="-121.0538462"/>
+ </create>
+ <create>
+  <node id="11934356922" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283500" lon="-121.0545355"/>
+ </create>
+ <create>
+  <node id="11934356923" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283553" lon="-121.0544658"/>
+ </create>
+ <create>
+  <node id="11934356924" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283323" lon="-121.0543799"/>
+ </create>
+ <create>
+  <node id="11934356925" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7282863" lon="-121.0543022"/>
+ </create>
+ <create>
+  <node id="11934356926" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7281713" lon="-121.0540313"/>
+ </create>
+ <create>
+  <node id="11934356927" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7282828" lon="-121.0546857"/>
+ </create>
+ <create>
+  <node id="11934356928" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7282775" lon="-121.0547528"/>
+ </create>
+ <create>
+  <node id="11934356929" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283075" lon="-121.0548654"/>
+ </create>
+ <create>
+  <node id="11934356930" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283447" lon="-121.0549995"/>
+ </create>
+ <create>
+  <node id="11934356931" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283518" lon="-121.0551390"/>
+ </create>
+ <create>
+  <node id="11934356932" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7284951" lon="-121.0556674"/>
+ </create>
+ <create>
+  <node id="11934356933" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7285305" lon="-121.0557076"/>
+ </create>
+ <create>
+  <way id="1286731436" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039">
+   <nd ref="11934356916"/>
+   <nd ref="8887954496"/>
+   <nd ref="8887954497"/>
+   <nd ref="8887954498"/>
+   <nd ref="8887954499"/>
+   <nd ref="8887953214"/>
+   <tag k="highway" v="footway"/>
+   <tag k="name" v="Happy Creek Forest Walk"/>
+   <tag k="operator" v="North Cascades National Park"/>
+   <tag k="source:width" v="NPS website"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="yes"/>
+   <tag k="width" v="6'"/>
+  </way>
+ </create>
+ <create>
+  <way id="1286731437" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039">
+   <nd ref="11934356927"/>
+   <nd ref="11934356922"/>
+   <nd ref="11934356923"/>
+   <nd ref="11934356924"/>
+   <nd ref="11934356925"/>
+   <nd ref="11934356926"/>
+   <nd ref="11934356921"/>
+   <nd ref="11934356920"/>
+   <nd ref="11934356919"/>
+   <nd ref="11934356918"/>
+   <nd ref="8887954449"/>
+   <tag k="highway" v="footway"/>
+   <tag k="name" v="Happy Creek Forest Walk"/>
+   <tag k="operator" v="North Cascades National Park"/>
+   <tag k="source:width" v="NPS website"/>
+   <tag k="surface" v="gravel"/>
+   <tag k="wheelchair" v="yes"/>
+   <tag k="width" v="6'"/>
+  </way>
+ </create>
+ <create>
+  <way id="1286731438" visible="true" version="1" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039">
+   <nd ref="8887953210"/>
+   <nd ref="11934356933"/>
+   <nd ref="11934356932"/>
+   <nd ref="8887953211"/>
+   <nd ref="8887953212"/>
+   <nd ref="8887953213"/>
+   <nd ref="8887953214"/>
+   <nd ref="8887953215"/>
+   <nd ref="8887953216"/>
+   <nd ref="11934356931"/>
+   <nd ref="11934356930"/>
+   <nd ref="11934356929"/>
+   <nd ref="11934356928"/>
+   <nd ref="11934356927"/>
+   <tag k="bridge" v="boardwalk"/>
+   <tag k="highway" v="footway"/>
+   <tag k="name" v="Happy Creek Forest Walk"/>
+   <tag k="operator" v="North Cascades National Park"/>
+   <tag k="source:width" v="NPS website"/>
+   <tag k="surface" v="wood"/>
+   <tag k="wheelchair" v="yes"/>
+   <tag k="width" v="6'"/>
+  </way>
+ </create>
+ <modify>
+  <node id="8887953210" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7285621" lon="-121.0558390">
+   <tag k="fee" v="no"/>
+   <tag k="highway" v="trailhead"/>
+   <tag k="name" v="Happy Creek Trailhead"/>
+   <tag k="operator" v="North Cascades National Park"/>
+  </node>
+ </modify>
+ <modify>
+  <node id="8887953215" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283075" lon="-121.0554112"/>
+ </modify>
+ <modify>
+  <node id="8887953216" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7283407" lon="-121.0552599"/>
+ </modify>
+ <delete>
+  <node id="8887954417" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954418" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954419" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954420" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954421" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954422" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954423" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954424" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954425" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954426" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954427" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954428" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954429" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954430" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954431" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954432" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954433" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954434" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954435" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954436" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954437" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954438" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954439" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954440" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954441" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954442" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954443" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954444" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954445" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954446" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954447" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954448" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="8887954449" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7278705" lon="-121.0534975"/>
+ </modify>
+ <modify>
+  <node id="8887954450" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7278068" lon="-121.0534331"/>
+ </modify>
+ <delete>
+  <node id="8887954451" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954452" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954453" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954454" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954455" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954456" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954457" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954459" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954460" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954461" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954462" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954463" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954464" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954465" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954466" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954467" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954468" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954469" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954470" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954471" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954472" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954473" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954474" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954475" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954476" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954477" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954478" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954479" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954480" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954481" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954482" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954483" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954484" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954485" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954486" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954487" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954488" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954489" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954490" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954491" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954492" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954493" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954494" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <delete>
+  <node id="8887954495" visible="false" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="8887954504" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7277538" lon="-121.0533929"/>
+ </modify>
+ <modify>
+  <way id="960766259" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039">
+   <nd ref="8887954449"/>
+   <nd ref="8887954450"/>
+   <nd ref="8887954504"/>
+   <nd ref="11934356917"/>
+   <nd ref="8887954458"/>
+   <nd ref="11934356902"/>
+   <nd ref="11934356903"/>
+   <nd ref="11934356904"/>
+   <nd ref="11934356905"/>
+   <nd ref="11934356906"/>
+   <nd ref="11934356907"/>
+   <nd ref="11934356908"/>
+   <nd ref="11934356909"/>
+   <nd ref="11934356910"/>
+   <nd ref="11934356911"/>
+   <nd ref="11934356912"/>
+   <nd ref="11934356913"/>
+   <nd ref="11934356914"/>
+   <nd ref="11934356915"/>
+   <nd ref="11934356916"/>
+   <tag k="bridge" v="boardwalk"/>
+   <tag k="highway" v="footway"/>
+   <tag k="name" v="Happy Creek Forest Walk"/>
+   <tag k="operator" v="North Cascades National Park"/>
+   <tag k="source:width" v="NPS website"/>
+   <tag k="surface" v="wood"/>
+   <tag k="wheelchair" v="yes"/>
+   <tag k="width" v="6'"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="960766260" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039">
+   <nd ref="8887954500"/>
+   <nd ref="8887954501"/>
+   <nd ref="8887954502"/>
+   <nd ref="8887954503"/>
+   <nd ref="8887953210"/>
+   <tag k="highway" v="service"/>
+   <tag k="surface" v="paved"/>
+  </way>
+ </modify>
+ <modify>
+  <way id="960766261" visible="true" version="2" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039">
+   <nd ref="8887954504"/>
+   <nd ref="8887954505"/>
+   <nd ref="8887954506"/>
+   <nd ref="8887954507"/>
+   <nd ref="8887954508"/>
+   <nd ref="8887954509"/>
+   <nd ref="8887954510"/>
+   <nd ref="8887954511"/>
+   <nd ref="8887954512"/>
+   <nd ref="8887954513"/>
+   <nd ref="8887954514"/>
+   <nd ref="8887954515"/>
+   <nd ref="8887954516"/>
+   <nd ref="8887954517"/>
+   <nd ref="8887954518"/>
+   <nd ref="8887954519"/>
+   <nd ref="8887954520"/>
+   <nd ref="8887954521"/>
+   <nd ref="8887954522"/>
+   <nd ref="8887954523"/>
+   <nd ref="8887954524"/>
+   <nd ref="8887954525"/>
+   <nd ref="8887954526"/>
+   <nd ref="8887954527"/>
+   <nd ref="8887954528"/>
+   <nd ref="8887954529"/>
+   <nd ref="8887954530"/>
+   <nd ref="8887954531"/>
+   <nd ref="8887954532"/>
+   <nd ref="8887954533"/>
+   <nd ref="8887954534"/>
+   <nd ref="8887954535"/>
+   <nd ref="8887954536"/>
+   <nd ref="8887954537"/>
+   <nd ref="8887954538"/>
+   <nd ref="8887954539"/>
+   <nd ref="8887954540"/>
+   <nd ref="8887954541"/>
+   <nd ref="8887954542"/>
+   <nd ref="8887954543"/>
+   <nd ref="8887954544"/>
+   <nd ref="8887954545"/>
+   <nd ref="8887954546"/>
+   <nd ref="8887954547"/>
+   <nd ref="8887954548"/>
+   <nd ref="8887954549"/>
+   <nd ref="8887954550"/>
+   <nd ref="8887954551"/>
+   <nd ref="8887954552"/>
+   <nd ref="8887954553"/>
+   <nd ref="8887954554"/>
+   <nd ref="8887954555"/>
+   <nd ref="8887954556"/>
+   <nd ref="8887954557"/>
+   <nd ref="8887954558"/>
+   <nd ref="8887954559"/>
+   <nd ref="8887954560"/>
+   <nd ref="8887954561"/>
+   <nd ref="8887954562"/>
+   <nd ref="8887954563"/>
+   <nd ref="8887954564"/>
+   <nd ref="8887954565"/>
+   <nd ref="8887954566"/>
+   <nd ref="8887954567"/>
+   <nd ref="8887954568"/>
+   <nd ref="8887954569"/>
+   <nd ref="8887954570"/>
+   <nd ref="8887954571"/>
+   <nd ref="8887954572"/>
+   <nd ref="8887954573"/>
+   <nd ref="8887954574"/>
+   <nd ref="8887954575"/>
+   <nd ref="8887954576"/>
+   <nd ref="8887954577"/>
+   <nd ref="8887954578"/>
+   <nd ref="8887954579"/>
+   <nd ref="8887954580"/>
+   <nd ref="8887954581"/>
+   <nd ref="8887954582"/>
+   <nd ref="8887954583"/>
+   <nd ref="8887954584"/>
+   <nd ref="8887954585"/>
+   <nd ref="8887954586"/>
+   <nd ref="8887954587"/>
+   <nd ref="8887954588"/>
+   <nd ref="8887954589"/>
+   <nd ref="8887954590"/>
+   <nd ref="8887954591"/>
+   <nd ref="8887954592"/>
+   <nd ref="8887954593"/>
+   <nd ref="8887954594"/>
+   <nd ref="8887954595"/>
+   <nd ref="8887954596"/>
+   <nd ref="8887954597"/>
+   <nd ref="8887954598"/>
+   <nd ref="8887954599"/>
+   <nd ref="8887954600"/>
+   <nd ref="8887954601"/>
+   <nd ref="8887954602"/>
+   <nd ref="8887954603"/>
+   <nd ref="8887954604"/>
+   <nd ref="8887954605"/>
+   <nd ref="8887954606"/>
+   <nd ref="8887954607"/>
+   <nd ref="8887954608"/>
+   <nd ref="8887954609"/>
+   <nd ref="8887954610"/>
+   <nd ref="8887954611"/>
+   <nd ref="8887954612"/>
+   <nd ref="8887954613"/>
+   <nd ref="8887954614"/>
+   <nd ref="8887954615"/>
+   <nd ref="8887954616"/>
+   <nd ref="8887954617"/>
+   <nd ref="8887954618"/>
+   <nd ref="8887954619"/>
+   <nd ref="8887954620"/>
+   <nd ref="8887954621"/>
+   <nd ref="8887954622"/>
+   <nd ref="8887954623"/>
+   <nd ref="8887954624"/>
+   <nd ref="8887954625"/>
+   <nd ref="8887954626"/>
+   <nd ref="8887954627"/>
+   <nd ref="8887954628"/>
+   <nd ref="8887954629"/>
+   <nd ref="8887954630"/>
+   <nd ref="8887954631"/>
+   <nd ref="8887954632"/>
+   <nd ref="8887954633"/>
+   <nd ref="8887954634"/>
+   <nd ref="8887954635"/>
+   <nd ref="8887954636"/>
+   <nd ref="8887954637"/>
+   <nd ref="8887954638"/>
+   <nd ref="8887954639"/>
+   <nd ref="8887954640"/>
+   <nd ref="8887954641"/>
+   <nd ref="8887954642"/>
+   <nd ref="8887954643"/>
+   <nd ref="8887954644"/>
+   <nd ref="8887954645"/>
+   <nd ref="8887954646"/>
+   <nd ref="8887954647"/>
+   <nd ref="8887954648"/>
+   <nd ref="8887954649"/>
+   <nd ref="8887954650"/>
+   <nd ref="8887954651"/>
+   <nd ref="8887954652"/>
+   <nd ref="8887954653"/>
+   <nd ref="8887954654"/>
+   <nd ref="8887954655"/>
+   <nd ref="8887954656"/>
+   <nd ref="8887954657"/>
+   <nd ref="8887954658"/>
+   <nd ref="8887954659"/>
+   <nd ref="8887954660"/>
+   <nd ref="8887954661"/>
+   <nd ref="8887954662"/>
+   <nd ref="8887954663"/>
+   <nd ref="8887954664"/>
+   <nd ref="8887954665"/>
+   <nd ref="8887954666"/>
+   <nd ref="8887954667"/>
+   <nd ref="8887954668"/>
+   <nd ref="8887954669"/>
+   <nd ref="8887954670"/>
+   <nd ref="8887954671"/>
+   <nd ref="8887954672"/>
+   <nd ref="8887954673"/>
+   <nd ref="8887954674"/>
+   <nd ref="8887954675"/>
+   <nd ref="8887954676"/>
+   <nd ref="8887954677"/>
+   <nd ref="8887954678"/>
+   <nd ref="8887954679"/>
+   <nd ref="8887954680"/>
+   <nd ref="8887954681"/>
+   <nd ref="8887954682"/>
+   <nd ref="8887954683"/>
+   <nd ref="8887954684"/>
+   <nd ref="8887954685"/>
+   <nd ref="8887954686"/>
+   <nd ref="8887954687"/>
+   <nd ref="8887954688"/>
+   <nd ref="8887954689"/>
+   <nd ref="8887954690"/>
+   <nd ref="8887954691"/>
+   <nd ref="8887954692"/>
+   <nd ref="8887954693"/>
+   <nd ref="8887954694"/>
+   <nd ref="8887954695"/>
+   <nd ref="8887954696"/>
+   <nd ref="8887954697"/>
+   <nd ref="8887954698"/>
+   <nd ref="8887954699"/>
+   <nd ref="8887954700"/>
+   <nd ref="8887954701"/>
+   <nd ref="8887954702"/>
+   <nd ref="8887954703"/>
+   <nd ref="8887954704"/>
+   <nd ref="8887954705"/>
+   <nd ref="8887954706"/>
+   <nd ref="8887954707"/>
+   <nd ref="8887954708"/>
+   <nd ref="8887954709"/>
+   <nd ref="8887954710"/>
+   <nd ref="8887954711"/>
+   <nd ref="8887954712"/>
+   <nd ref="8887954713"/>
+   <nd ref="8887954714"/>
+   <nd ref="8887954715"/>
+   <nd ref="8887954716"/>
+   <nd ref="8887954717"/>
+   <nd ref="8887954718"/>
+   <nd ref="8887954719"/>
+   <nd ref="8887954720"/>
+   <nd ref="8887954721"/>
+   <nd ref="8887954722"/>
+   <nd ref="8887954723"/>
+   <nd ref="8887954724"/>
+   <nd ref="8887954725"/>
+   <nd ref="8887954726"/>
+   <nd ref="8887954727"/>
+   <nd ref="8887954728"/>
+   <nd ref="8887954729"/>
+   <nd ref="8887954730"/>
+   <nd ref="8887954731"/>
+   <nd ref="8887954732"/>
+   <nd ref="8887954733"/>
+   <nd ref="8887954734"/>
+   <nd ref="8887954735"/>
+   <nd ref="8887954736"/>
+   <nd ref="8887954737"/>
+   <nd ref="8887954738"/>
+   <nd ref="8887954739"/>
+   <nd ref="8887954740"/>
+   <nd ref="8887954741"/>
+   <nd ref="8887954742"/>
+   <nd ref="8887954743"/>
+   <nd ref="8887954744"/>
+   <nd ref="8887954745"/>
+   <nd ref="8887954746"/>
+   <nd ref="8887954747"/>
+   <nd ref="8887954748"/>
+   <nd ref="8887954749"/>
+   <nd ref="8887954750"/>
+   <nd ref="8887954751"/>
+   <nd ref="8887954752"/>
+   <nd ref="8887954753"/>
+   <nd ref="8887954754"/>
+   <nd ref="8887954755"/>
+   <nd ref="8887954756"/>
+   <nd ref="8887954757"/>
+   <nd ref="8887954758"/>
+   <nd ref="8887954759"/>
+   <nd ref="8887954760"/>
+   <nd ref="8887954761"/>
+   <nd ref="8887954762"/>
+   <nd ref="8887954763"/>
+   <nd ref="8887954764"/>
+   <nd ref="8887954765"/>
+   <nd ref="8887954766"/>
+   <nd ref="8887954767"/>
+   <nd ref="8887954768"/>
+   <nd ref="8887954769"/>
+   <nd ref="8887954770"/>
+   <nd ref="8887954771"/>
+   <nd ref="8887954772"/>
+   <nd ref="8887954773"/>
+   <nd ref="8887954774"/>
+   <nd ref="8887954775"/>
+   <nd ref="8887954776"/>
+   <nd ref="8887954777"/>
+   <nd ref="8887954778"/>
+   <nd ref="8887954779"/>
+   <nd ref="8887954780"/>
+   <nd ref="8887954781"/>
+   <nd ref="8887954782"/>
+   <nd ref="8887954783"/>
+   <nd ref="8887954784"/>
+   <nd ref="8887954785"/>
+   <nd ref="8887954786"/>
+   <nd ref="8887954787"/>
+   <nd ref="8887954788"/>
+   <nd ref="8887954789"/>
+   <nd ref="8887954790"/>
+   <nd ref="8887954791"/>
+   <nd ref="8887954792"/>
+   <nd ref="8887954793"/>
+   <nd ref="8887954794"/>
+   <nd ref="8887954795"/>
+   <nd ref="8887954796"/>
+   <nd ref="8887954797"/>
+   <nd ref="8887954798"/>
+   <nd ref="8887954799"/>
+   <nd ref="8887954800"/>
+   <nd ref="8887954801"/>
+   <nd ref="8887954802"/>
+   <nd ref="8887954803"/>
+   <nd ref="8887954804"/>
+   <nd ref="8887954805"/>
+   <nd ref="8887954806"/>
+   <nd ref="8887954807"/>
+   <nd ref="8887954808"/>
+   <nd ref="8887954809"/>
+   <nd ref="8887954810"/>
+   <nd ref="8887954811"/>
+   <nd ref="8887954812"/>
+   <nd ref="8887954813"/>
+   <nd ref="8887954814"/>
+   <nd ref="8887954815"/>
+   <nd ref="8887954816"/>
+   <nd ref="8887954817"/>
+   <nd ref="8887954818"/>
+   <nd ref="8887954819"/>
+   <nd ref="8887954820"/>
+   <nd ref="8887954821"/>
+   <nd ref="8887954822"/>
+   <nd ref="8887954823"/>
+   <nd ref="8887954824"/>
+   <nd ref="8887954825"/>
+   <nd ref="8887954826"/>
+   <nd ref="8887954827"/>
+   <nd ref="8887954828"/>
+   <nd ref="8887954829"/>
+   <nd ref="8887954830"/>
+   <nd ref="8887954831"/>
+   <nd ref="8887954832"/>
+   <nd ref="8887954833"/>
+   <nd ref="8887954834"/>
+   <nd ref="8887954835"/>
+   <nd ref="8887954836"/>
+   <nd ref="8887954837"/>
+   <nd ref="8887954838"/>
+   <nd ref="8887954839"/>
+   <nd ref="8887954840"/>
+   <nd ref="8887954841"/>
+   <nd ref="8887954842"/>
+   <nd ref="8887954843"/>
+   <nd ref="8887954844"/>
+   <nd ref="8887954845"/>
+   <nd ref="8887954846"/>
+   <nd ref="8887954847"/>
+   <nd ref="8887954848"/>
+   <nd ref="8887954849"/>
+   <nd ref="8887954850"/>
+   <nd ref="8887954851"/>
+   <nd ref="8887954852"/>
+   <nd ref="8887954853"/>
+   <nd ref="8887954854"/>
+   <nd ref="8887954855"/>
+   <nd ref="8887954856"/>
+   <nd ref="8887954857"/>
+   <nd ref="8887954858"/>
+   <nd ref="8887954859"/>
+   <nd ref="8887954860"/>
+   <nd ref="8887954861"/>
+   <nd ref="8887954862"/>
+   <nd ref="8887954863"/>
+   <nd ref="8887954864"/>
+   <nd ref="8887954865"/>
+   <nd ref="8887954866"/>
+   <nd ref="8887954867"/>
+   <nd ref="8887954868"/>
+   <nd ref="8887954869"/>
+   <nd ref="8887954870"/>
+   <nd ref="8887954871"/>
+   <nd ref="8887954872"/>
+   <nd ref="8887954873"/>
+   <nd ref="8887954874"/>
+   <nd ref="8887954875"/>
+   <nd ref="8887954876"/>
+   <nd ref="8887954877"/>
+   <nd ref="8887954878"/>
+   <nd ref="8887954879"/>
+   <nd ref="8887954880"/>
+   <nd ref="8887954881"/>
+   <nd ref="8887954882"/>
+   <nd ref="8887954883"/>
+   <nd ref="8887954884"/>
+   <nd ref="8887954885"/>
+   <nd ref="8887954886"/>
+   <nd ref="8887954887"/>
+   <nd ref="8887954888"/>
+   <nd ref="8887954889"/>
+   <nd ref="8887954890"/>
+   <nd ref="8887954891"/>
+   <nd ref="8887954892"/>
+   <nd ref="8887954893"/>
+   <nd ref="8887954894"/>
+   <nd ref="8887954895"/>
+   <nd ref="8887954896"/>
+   <nd ref="8887954897"/>
+   <nd ref="8887954898"/>
+   <nd ref="8887954899"/>
+   <nd ref="8887954900"/>
+   <nd ref="8887954901"/>
+   <tag k="highway" v="path"/>
+   <tag k="name" v="Happy Creek Falls Trail"/>
+   <tag k="operator" v="North Cascades National Park"/>
+   <tag k="surface" v="ground"/>
+   <tag k="wheelchair" v="no"/>
+  </way>
+ </modify>
+ <modify>
+  <node id="6740089523" visible="true" version="3" changeset="151837465" timestamp="2024-05-26T06:38:34Z" user="jake-low" uid="8794039" lat="48.7286215" lon="-121.0558703">
+   <tag k="amenity" v="parking"/>
+   <tag k="description" v="Space for 4 or more cars"/>
+   <tag k="parking" v="surface"/>
+   <tag k="surface" v="paved"/>
+  </node>
+ </modify>
+</osmChange>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osmChange version="0.6" generator="openstreetmap-cgimap 2.0.1 (1863 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <create>
+  <node id="12119016595" visible="true" version="1" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1492375" lon="-121.7480726"/>
+ </create>
+ <modify>
+  <node id="7213766203" visible="true" version="2" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1494790" lon="-121.7479620"/>
+ </modify>
+ <modify>
+  <node id="7213766204" visible="true" version="2" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1495887" lon="-121.7479488"/>
+ </modify>
+ <modify>
+  <node id="7213766205" visible="true" version="2" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1496845" lon="-121.7479539"/>
+ </modify>
+ <modify>
+  <node id="7213766241" visible="true" version="2" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1491593" lon="-121.7481330"/>
+ </modify>
+ <delete>
+  <node id="7213766242" visible="false" version="2" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039"/>
+ </delete>
+ <modify>
+  <node id="5500147559" visible="true" version="3" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1493317" lon="-121.7480156"/>
+ </modify>
+ <modify>
+  <way id="572505899" visible="true" version="4" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039">
+   <nd ref="50776780"/>
+   <nd ref="7213766241"/>
+   <nd ref="12119016595"/>
+   <nd ref="5500147559"/>
+   <nd ref="50776782"/>
+   <tag k="alt_name" v="Tupso Pass Road"/>
+   <tag k="bridge" v="yes"/>
+   <tag k="highway" v="track"/>
+   <tag k="layer" v="1"/>
+   <tag k="motor_vehicle" v="no"/>
+   <tag k="name" v="Forest Road 41"/>
+   <tag k="ref" v="FS 41"/>
+   <tag k="surface" v="unpaved"/>
+  </way>
+ </modify>
+ <modify>
+  <node id="50776782" visible="true" version="5" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1494115" lon="-121.7479780"/>
+ </modify>
+ <modify>
+  <node id="50776780" visible="true" version="7" changeset="155433568" timestamp="2024-08-18T20:35:43Z" user="jake-low" uid="8794039" lat="48.1490751" lon="-121.7482036">
+   <tag k="barrier" v="block"/>
+   <tag k="motor_vehicle" v="no"/>
+  </node>
+ </modify>
+</osmChange>
